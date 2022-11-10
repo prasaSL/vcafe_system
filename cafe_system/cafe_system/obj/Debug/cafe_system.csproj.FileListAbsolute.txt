@@ -1,0 +1,10 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\cafe_system\bin\Debug\cafe_system.exe.config
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
