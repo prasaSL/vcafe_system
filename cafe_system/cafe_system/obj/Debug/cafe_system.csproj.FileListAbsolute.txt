@@ -8,3 +8,4 @@ C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_sys
 C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
 C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
 C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+C:\Users\Administrator\Desktop\system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
