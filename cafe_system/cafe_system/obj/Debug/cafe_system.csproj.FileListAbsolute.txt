@@ -20,3 +20,14 @@ C:\Users\Administrator\Documents\GitHub\vcafe_system\cafe_system\cafe_system\obj
 C:\Users\Administrator\Documents\GitHub\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
 C:\Users\Administrator\Documents\GitHub\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
 C:\Users\Administrator\Documents\GitHub\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.splashScreen.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache

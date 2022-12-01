@@ -95,6 +95,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="icons\Burger\" />
+    <Folder Include="icons\Cofee\" />
+    <Folder Include="icons\Food\" />
+    <Folder Include="icons\Hot Dogs\" />
+    <Folder Include="icons\Juice\" />
+    <Folder Include="icons\Sandwich\" />
+    <Folder Include="icons\Shake\" />
+    <Folder Include="icons\Soup\" />
+    <Folder Include="icons\Tea\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
