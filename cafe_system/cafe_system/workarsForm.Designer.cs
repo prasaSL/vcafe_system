@@ -34,26 +34,6 @@
             this.lblDate = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.pnlCashier = new System.Windows.Forms.Panel();
-            this.gbTea = new System.Windows.Forms.GroupBox();
-            this.ptea = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.lblRTea = new System.Windows.Forms.Label();
-            this.btnRTea = new System.Windows.Forms.Button();
-            this.lblCITeaP = new System.Windows.Forms.Label();
-            this.lblGTeaP = new System.Windows.Forms.Label();
-            this.lblLITeaP = new System.Windows.Forms.Label();
-            this.lblSITeaP = new System.Windows.Forms.Label();
-            this.lblPUTeaP = new System.Windows.Forms.Label();
-            this.lblGTea = new System.Windows.Forms.Label();
-            this.lblSITea = new System.Windows.Forms.Label();
-            this.lblPUTea = new System.Windows.Forms.Label();
-            this.lblCITea = new System.Windows.Forms.Label();
-            this.lblLITea = new System.Windows.Forms.Label();
-            this.btnCLTea = new System.Windows.Forms.Button();
-            this.btnSITea = new System.Windows.Forms.Button();
-            this.btnPITea = new System.Windows.Forms.Button();
-            this.btnLITea = new System.Windows.Forms.Button();
-            this.btnGTea = new System.Windows.Forms.Button();
             this.label16 = new System.Windows.Forms.Label();
             this.button70 = new System.Windows.Forms.Button();
             this.button69 = new System.Windows.Forms.Button();
@@ -79,69 +59,6 @@
             this.button13 = new System.Windows.Forms.Button();
             this.c1 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
-            this.gbdrink = new System.Windows.Forms.GroupBox();
-            this.btnsoftdrink = new System.Windows.Forms.Button();
-            this.btnshakes = new System.Windows.Forms.Button();
-            this.btncofee = new System.Windows.Forms.Button();
-            this.btntea = new System.Windows.Forms.Button();
-            this.gbFood = new System.Windows.Forms.GroupBox();
-            this.button52 = new System.Windows.Forms.Button();
-            this.button53 = new System.Windows.Forms.Button();
-            this.button54 = new System.Windows.Forms.Button();
-            this.button55 = new System.Windows.Forms.Button();
-            this.gbtopping = new System.Windows.Forms.GroupBox();
-            this.lblCTopping = new System.Windows.Forms.Label();
-            this.lblSICTopping = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.lblSICToppingP = new System.Windows.Forms.Label();
-            this.lblWCToppingP = new System.Windows.Forms.Label();
-            this.lblWCTopping = new System.Windows.Forms.Label();
-            this.btnCTopping = new System.Windows.Forms.Button();
-            this.btnSICTopping = new System.Windows.Forms.Button();
-            this.btnNON = new System.Windows.Forms.Button();
-            this.btnWCTopping = new System.Windows.Forms.Button();
-            this.gbCofee = new System.Windows.Forms.GroupBox();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.lblACoffeP = new System.Windows.Forms.Label();
-            this.lblMLCoffeeP = new System.Windows.Forms.Label();
-            this.lblCCoffeeP = new System.Windows.Forms.Label();
-            this.lblCBLCoffeeP = new System.Windows.Forms.Label();
-            this.lblCaLCoffeeP = new System.Windows.Forms.Label();
-            this.lblCLCoffeP = new System.Windows.Forms.Label();
-            this.lblMLCoffee = new System.Windows.Forms.Label();
-            this.lblACoffe = new System.Windows.Forms.Label();
-            this.lblCBLCoffee = new System.Windows.Forms.Label();
-            this.lblCaLCoffee = new System.Windows.Forms.Label();
-            this.lblCLCoffe = new System.Windows.Forms.Label();
-            this.lblCCoffee = new System.Windows.Forms.Label();
-            this.btnACoffe = new System.Windows.Forms.Button();
-            this.btnCBLCoffee = new System.Windows.Forms.Button();
-            this.btnCaLCoffee = new System.Windows.Forms.Button();
-            this.btnCLCoffe = new System.Windows.Forms.Button();
-            this.btnCCoffee = new System.Windows.Forms.Button();
-            this.btnMLCoffee = new System.Windows.Forms.Button();
-            this.gbHotDog = new System.Windows.Forms.GroupBox();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.lblCHDogP = new System.Windows.Forms.Label();
-            this.lblNSHDogP = new System.Windows.Forms.Label();
-            this.lblCHDog = new System.Windows.Forms.Label();
-            this.lblNSHDog = new System.Windows.Forms.Label();
-            this.btnCHDog = new System.Windows.Forms.Button();
-            this.btnNSHDog = new System.Windows.Forms.Button();
-            this.gbburger = new System.Windows.Forms.GroupBox();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.lblCCPCburgerP = new System.Windows.Forms.Label();
-            this.lblBBurgerP = new System.Windows.Forms.Label();
-            this.lblVburgerP = new System.Windows.Forms.Label();
-            this.lblddcburgerP = new System.Windows.Forms.Label();
-            this.lblBBurger = new System.Windows.Forms.Label();
-            this.lblCCPCburger = new System.Windows.Forms.Label();
-            this.lblVburger = new System.Windows.Forms.Label();
-            this.lblddcburger = new System.Windows.Forms.Label();
-            this.btnBBurger = new System.Windows.Forms.Button();
-            this.btnCCPCburger = new System.Windows.Forms.Button();
-            this.btnVburger = new System.Windows.Forms.Button();
-            this.btnddcburger = new System.Windows.Forms.Button();
             this.gbsoup = new System.Windows.Forms.GroupBox();
             this.panel5 = new System.Windows.Forms.Panel();
             this.lblCCSoupP = new System.Windows.Forms.Label();
@@ -221,6 +138,89 @@
             this.btnNTBBShake = new System.Windows.Forms.Button();
             this.btnDFShake = new System.Windows.Forms.Button();
             this.btnCShake = new System.Windows.Forms.Button();
+            this.gbdrink = new System.Windows.Forms.GroupBox();
+            this.btnsoftdrink = new System.Windows.Forms.Button();
+            this.btnshakes = new System.Windows.Forms.Button();
+            this.btncofee = new System.Windows.Forms.Button();
+            this.btntea = new System.Windows.Forms.Button();
+            this.gbFood = new System.Windows.Forms.GroupBox();
+            this.button52 = new System.Windows.Forms.Button();
+            this.button53 = new System.Windows.Forms.Button();
+            this.button54 = new System.Windows.Forms.Button();
+            this.button55 = new System.Windows.Forms.Button();
+            this.gbTea = new System.Windows.Forms.GroupBox();
+            this.ptea = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblRTea = new System.Windows.Forms.Label();
+            this.btnRTea = new System.Windows.Forms.Button();
+            this.lblCITeaP = new System.Windows.Forms.Label();
+            this.lblGTeaP = new System.Windows.Forms.Label();
+            this.lblLITeaP = new System.Windows.Forms.Label();
+            this.lblSITeaP = new System.Windows.Forms.Label();
+            this.lblPUTeaP = new System.Windows.Forms.Label();
+            this.lblGTea = new System.Windows.Forms.Label();
+            this.lblSITea = new System.Windows.Forms.Label();
+            this.lblPUTea = new System.Windows.Forms.Label();
+            this.lblCITea = new System.Windows.Forms.Label();
+            this.lblLITea = new System.Windows.Forms.Label();
+            this.btnCLTea = new System.Windows.Forms.Button();
+            this.btnSITea = new System.Windows.Forms.Button();
+            this.btnPITea = new System.Windows.Forms.Button();
+            this.btnLITea = new System.Windows.Forms.Button();
+            this.btnGTea = new System.Windows.Forms.Button();
+            this.gbCofee = new System.Windows.Forms.GroupBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.lblACoffeP = new System.Windows.Forms.Label();
+            this.lblMLCoffeeP = new System.Windows.Forms.Label();
+            this.lblCCoffeeP = new System.Windows.Forms.Label();
+            this.lblCBLCoffeeP = new System.Windows.Forms.Label();
+            this.lblCaLCoffeeP = new System.Windows.Forms.Label();
+            this.lblCLCoffeP = new System.Windows.Forms.Label();
+            this.lblMLCoffee = new System.Windows.Forms.Label();
+            this.lblACoffe = new System.Windows.Forms.Label();
+            this.lblCBLCoffee = new System.Windows.Forms.Label();
+            this.lblCaLCoffee = new System.Windows.Forms.Label();
+            this.lblCLCoffe = new System.Windows.Forms.Label();
+            this.lblCCoffee = new System.Windows.Forms.Label();
+            this.btnACoffe = new System.Windows.Forms.Button();
+            this.btnCBLCoffee = new System.Windows.Forms.Button();
+            this.btnCaLCoffee = new System.Windows.Forms.Button();
+            this.btnCLCoffe = new System.Windows.Forms.Button();
+            this.btnCCoffee = new System.Windows.Forms.Button();
+            this.btnMLCoffee = new System.Windows.Forms.Button();
+            this.gbHotDog = new System.Windows.Forms.GroupBox();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.lblCHDogP = new System.Windows.Forms.Label();
+            this.lblNSHDogP = new System.Windows.Forms.Label();
+            this.lblCHDog = new System.Windows.Forms.Label();
+            this.lblNSHDog = new System.Windows.Forms.Label();
+            this.btnCHDog = new System.Windows.Forms.Button();
+            this.btnNSHDog = new System.Windows.Forms.Button();
+            this.gbtopping = new System.Windows.Forms.GroupBox();
+            this.lblCTopping = new System.Windows.Forms.Label();
+            this.lblSICTopping = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.lblSICToppingP = new System.Windows.Forms.Label();
+            this.lblWCToppingP = new System.Windows.Forms.Label();
+            this.lblWCTopping = new System.Windows.Forms.Label();
+            this.btnCTopping = new System.Windows.Forms.Button();
+            this.btnSICTopping = new System.Windows.Forms.Button();
+            this.btnNON = new System.Windows.Forms.Button();
+            this.btnWCTopping = new System.Windows.Forms.Button();
+            this.gbburger = new System.Windows.Forms.GroupBox();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.lblCCPCburgerP = new System.Windows.Forms.Label();
+            this.lblBBurgerP = new System.Windows.Forms.Label();
+            this.lblVburgerP = new System.Windows.Forms.Label();
+            this.lblddcburgerP = new System.Windows.Forms.Label();
+            this.lblBBurger = new System.Windows.Forms.Label();
+            this.lblCCPCburger = new System.Windows.Forms.Label();
+            this.lblVburger = new System.Windows.Forms.Label();
+            this.lblddcburger = new System.Windows.Forms.Label();
+            this.btnBBurger = new System.Windows.Forms.Button();
+            this.btnCCPCburger = new System.Windows.Forms.Button();
+            this.btnVburger = new System.Windows.Forms.Button();
+            this.btnddcburger = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.backgroundWorker2 = new System.ComponentModel.BackgroundWorker();
@@ -232,18 +232,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.btnCStorage = new System.Windows.Forms.Button();
             this.pnlCashier.SuspendLayout();
-            this.gbTea.SuspendLayout();
-            this.ptea.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bill)).BeginInit();
-            this.gbdrink.SuspendLayout();
-            this.gbFood.SuspendLayout();
-            this.gbtopping.SuspendLayout();
-            this.gbCofee.SuspendLayout();
-            this.panel1.SuspendLayout();
-            this.gbHotDog.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.gbburger.SuspendLayout();
-            this.panel6.SuspendLayout();
             this.gbsoup.SuspendLayout();
             this.panel5.SuspendLayout();
             this.gbsoftdrink.SuspendLayout();
@@ -254,6 +243,17 @@
             this.groupBox3.SuspendLayout();
             this.gbshakes.SuspendLayout();
             this.panel2.SuspendLayout();
+            this.gbdrink.SuspendLayout();
+            this.gbFood.SuspendLayout();
+            this.gbTea.SuspendLayout();
+            this.ptea.SuspendLayout();
+            this.gbCofee.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.gbHotDog.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.gbtopping.SuspendLayout();
+            this.gbburger.SuspendLayout();
+            this.panel6.SuspendLayout();
             this.pnlInventory.SuspendLayout();
             this.gbCStorage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -330,7 +330,6 @@
             this.pnlCashier.Controls.Add(this.button13);
             this.pnlCashier.Controls.Add(this.c1);
             this.pnlCashier.Controls.Add(this.button11);
-            this.pnlCashier.Controls.Add(this.gbsoup);
             this.pnlCashier.Controls.Add(this.gbsoftdrink);
             this.pnlCashier.Controls.Add(this.gbsandwich);
             this.pnlCashier.Controls.Add(this.gbshakes);
@@ -341,351 +340,12 @@
             this.pnlCashier.Controls.Add(this.gbHotDog);
             this.pnlCashier.Controls.Add(this.gbtopping);
             this.pnlCashier.Controls.Add(this.gbburger);
+            this.pnlCashier.Controls.Add(this.gbsoup);
             this.pnlCashier.Location = new System.Drawing.Point(102, 39);
             this.pnlCashier.Name = "pnlCashier";
             this.pnlCashier.Size = new System.Drawing.Size(3389, 721);
             this.pnlCashier.TabIndex = 3;
             this.pnlCashier.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlCashier_Paint);
-            // 
-            // gbTea
-            // 
-            this.gbTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.gbTea.Controls.Add(this.ptea);
-            this.gbTea.Location = new System.Drawing.Point(152, 58);
-            this.gbTea.Name = "gbTea";
-            this.gbTea.Size = new System.Drawing.Size(711, 505);
-            this.gbTea.TabIndex = 5;
-            this.gbTea.TabStop = false;
-            this.gbTea.Text = "TEA";
-            // 
-            // ptea
-            // 
-            this.ptea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.ptea.AutoScroll = true;
-            this.ptea.AutoScrollMinSize = new System.Drawing.Size(770, 700);
-            this.ptea.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ptea.Controls.Add(this.label2);
-            this.ptea.Controls.Add(this.lblRTea);
-            this.ptea.Controls.Add(this.btnRTea);
-            this.ptea.Controls.Add(this.lblCITeaP);
-            this.ptea.Controls.Add(this.lblGTeaP);
-            this.ptea.Controls.Add(this.lblLITeaP);
-            this.ptea.Controls.Add(this.lblSITeaP);
-            this.ptea.Controls.Add(this.lblPUTeaP);
-            this.ptea.Controls.Add(this.lblGTea);
-            this.ptea.Controls.Add(this.lblSITea);
-            this.ptea.Controls.Add(this.lblPUTea);
-            this.ptea.Controls.Add(this.lblCITea);
-            this.ptea.Controls.Add(this.lblLITea);
-            this.ptea.Controls.Add(this.btnCLTea);
-            this.ptea.Controls.Add(this.btnSITea);
-            this.ptea.Controls.Add(this.btnPITea);
-            this.ptea.Controls.Add(this.btnLITea);
-            this.ptea.Controls.Add(this.btnGTea);
-            this.ptea.Location = new System.Drawing.Point(8, 14);
-            this.ptea.Name = "ptea";
-            this.ptea.Size = new System.Drawing.Size(697, 480);
-            this.ptea.TabIndex = 10;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(515, 529);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(66, 25);
-            this.label2.TabIndex = 32;
-            this.label2.Text = "Price";
-            // 
-            // lblRTea
-            // 
-            this.lblRTea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblRTea.AutoSize = true;
-            this.lblRTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRTea.Location = new System.Drawing.Point(364, 625);
-            this.lblRTea.Name = "lblRTea";
-            this.lblRTea.Size = new System.Drawing.Size(99, 20);
-            this.lblRTea.TabIndex = 31;
-            this.lblRTea.Text = "Rooibos Tea";
-            // 
-            // btnRTea
-            // 
-            this.btnRTea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnRTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnRTea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnRTea.BackColor = System.Drawing.Color.Transparent;
-            this.btnRTea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRTea.BackgroundImage")));
-            this.btnRTea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnRTea.FlatAppearance.BorderSize = 0;
-            this.btnRTea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnRTea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnRTea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnRTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRTea.ForeColor = System.Drawing.Color.Transparent;
-            this.btnRTea.Location = new System.Drawing.Point(346, 482);
-            this.btnRTea.Margin = new System.Windows.Forms.Padding(10);
-            this.btnRTea.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnRTea.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnRTea.Name = "btnRTea";
-            this.btnRTea.Size = new System.Drawing.Size(134, 134);
-            this.btnRTea.TabIndex = 30;
-            this.btnRTea.Text = "Rooibos Tea";
-            this.btnRTea.UseVisualStyleBackColor = false;
-            this.btnRTea.Click += new System.EventHandler(this.btnLITea_Click);
-            // 
-            // lblCITeaP
-            // 
-            this.lblCITeaP.AutoSize = true;
-            this.lblCITeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCITeaP.Location = new System.Drawing.Point(533, 88);
-            this.lblCITeaP.Name = "lblCITeaP";
-            this.lblCITeaP.Size = new System.Drawing.Size(66, 25);
-            this.lblCITeaP.TabIndex = 29;
-            this.lblCITeaP.Text = "Price";
-            // 
-            // lblGTeaP
-            // 
-            this.lblGTeaP.AutoSize = true;
-            this.lblGTeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGTeaP.Location = new System.Drawing.Point(533, 305);
-            this.lblGTeaP.Name = "lblGTeaP";
-            this.lblGTeaP.Size = new System.Drawing.Size(66, 25);
-            this.lblGTeaP.TabIndex = 27;
-            this.lblGTeaP.Text = "Price";
-            this.lblGTeaP.Click += new System.EventHandler(this.label51_Click);
-            // 
-            // lblLITeaP
-            // 
-            this.lblLITeaP.AutoSize = true;
-            this.lblLITeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLITeaP.Location = new System.Drawing.Point(207, 84);
-            this.lblLITeaP.Name = "lblLITeaP";
-            this.lblLITeaP.Size = new System.Drawing.Size(66, 25);
-            this.lblLITeaP.TabIndex = 26;
-            this.lblLITeaP.Text = "Price";
-            // 
-            // lblSITeaP
-            // 
-            this.lblSITeaP.AutoSize = true;
-            this.lblSITeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSITeaP.Location = new System.Drawing.Point(213, 526);
-            this.lblSITeaP.Name = "lblSITeaP";
-            this.lblSITeaP.Size = new System.Drawing.Size(66, 25);
-            this.lblSITeaP.TabIndex = 24;
-            this.lblSITeaP.Text = "Price";
-            // 
-            // lblPUTeaP
-            // 
-            this.lblPUTeaP.AutoSize = true;
-            this.lblPUTeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPUTeaP.Location = new System.Drawing.Point(207, 301);
-            this.lblPUTeaP.Name = "lblPUTeaP";
-            this.lblPUTeaP.Size = new System.Drawing.Size(66, 25);
-            this.lblPUTeaP.TabIndex = 24;
-            this.lblPUTeaP.Text = "Price";
-            // 
-            // lblGTea
-            // 
-            this.lblGTea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblGTea.AutoSize = true;
-            this.lblGTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGTea.Location = new System.Drawing.Point(371, 399);
-            this.lblGTea.Name = "lblGTea";
-            this.lblGTea.Size = new System.Drawing.Size(85, 20);
-            this.lblGTea.TabIndex = 23;
-            this.lblGTea.Text = "Green Tea";
-            // 
-            // lblSITea
-            // 
-            this.lblSITea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblSITea.AutoSize = true;
-            this.lblSITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSITea.Location = new System.Drawing.Point(62, 622);
-            this.lblSITea.Name = "lblSITea";
-            this.lblSITea.Size = new System.Drawing.Size(91, 20);
-            this.lblSITea.TabIndex = 21;
-            this.lblSITea.Text = "Oolong Tea";
-            // 
-            // lblPUTea
-            // 
-            this.lblPUTea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblPUTea.AutoSize = true;
-            this.lblPUTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPUTea.Location = new System.Drawing.Point(64, 398);
-            this.lblPUTea.Name = "lblPUTea";
-            this.lblPUTea.Size = new System.Drawing.Size(87, 20);
-            this.lblPUTea.TabIndex = 21;
-            this.lblPUTea.Text = "Herbal Tea";
-            // 
-            // lblCITea
-            // 
-            this.lblCITea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblCITea.AutoSize = true;
-            this.lblCITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCITea.Location = new System.Drawing.Point(371, 182);
-            this.lblCITea.Name = "lblCITea";
-            this.lblCITea.Size = new System.Drawing.Size(81, 20);
-            this.lblCITea.TabIndex = 19;
-            this.lblCITea.Text = "White Tea";
-            // 
-            // lblLITea
-            // 
-            this.lblLITea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblLITea.AutoSize = true;
-            this.lblLITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLITea.Location = new System.Drawing.Point(72, 182);
-            this.lblLITea.Name = "lblLITea";
-            this.lblLITea.Size = new System.Drawing.Size(79, 20);
-            this.lblLITea.TabIndex = 18;
-            this.lblLITea.Text = "Black Tea";
-            this.lblLITea.Click += new System.EventHandler(this.label60_Click);
-            // 
-            // btnCLTea
-            // 
-            this.btnCLTea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCLTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCLTea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCLTea.BackColor = System.Drawing.Color.Transparent;
-            this.btnCLTea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCLTea.BackgroundImage")));
-            this.btnCLTea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCLTea.FlatAppearance.BorderSize = 0;
-            this.btnCLTea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCLTea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCLTea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCLTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCLTea.ForeColor = System.Drawing.Color.Transparent;
-            this.btnCLTea.Location = new System.Drawing.Point(346, 37);
-            this.btnCLTea.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCLTea.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnCLTea.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnCLTea.Name = "btnCLTea";
-            this.btnCLTea.Size = new System.Drawing.Size(134, 134);
-            this.btnCLTea.TabIndex = 16;
-            this.btnCLTea.Text = "White Tea";
-            this.btnCLTea.UseVisualStyleBackColor = false;
-            this.btnCLTea.Click += new System.EventHandler(this.btnLITea_Click);
-            // 
-            // btnSITea
-            // 
-            this.btnSITea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnSITea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSITea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnSITea.BackColor = System.Drawing.Color.Transparent;
-            this.btnSITea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSITea.BackgroundImage")));
-            this.btnSITea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnSITea.FlatAppearance.BorderSize = 0;
-            this.btnSITea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnSITea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnSITea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSITea.ForeColor = System.Drawing.Color.Transparent;
-            this.btnSITea.Location = new System.Drawing.Point(44, 482);
-            this.btnSITea.Margin = new System.Windows.Forms.Padding(10);
-            this.btnSITea.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnSITea.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnSITea.Name = "btnSITea";
-            this.btnSITea.Size = new System.Drawing.Size(134, 134);
-            this.btnSITea.TabIndex = 14;
-            this.btnSITea.Text = "Oolong Tea";
-            this.btnSITea.UseVisualStyleBackColor = false;
-            this.btnSITea.Click += new System.EventHandler(this.btnLITea_Click);
-            // 
-            // btnPITea
-            // 
-            this.btnPITea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnPITea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnPITea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnPITea.BackColor = System.Drawing.Color.Transparent;
-            this.btnPITea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnPITea.BackgroundImage")));
-            this.btnPITea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnPITea.FlatAppearance.BorderSize = 0;
-            this.btnPITea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnPITea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnPITea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPITea.ForeColor = System.Drawing.Color.Transparent;
-            this.btnPITea.Location = new System.Drawing.Point(44, 256);
-            this.btnPITea.Margin = new System.Windows.Forms.Padding(10);
-            this.btnPITea.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnPITea.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnPITea.Name = "btnPITea";
-            this.btnPITea.Size = new System.Drawing.Size(134, 134);
-            this.btnPITea.TabIndex = 14;
-            this.btnPITea.Text = "Herbal Tea";
-            this.btnPITea.UseVisualStyleBackColor = false;
-            this.btnPITea.Click += new System.EventHandler(this.btnLITea_Click);
-            // 
-            // btnLITea
-            // 
-            this.btnLITea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnLITea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnLITea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnLITea.BackColor = System.Drawing.Color.Transparent;
-            this.btnLITea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnLITea.BackgroundImage")));
-            this.btnLITea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnLITea.FlatAppearance.BorderSize = 0;
-            this.btnLITea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnLITea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnLITea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLITea.ForeColor = System.Drawing.Color.Transparent;
-            this.btnLITea.Location = new System.Drawing.Point(44, 34);
-            this.btnLITea.Margin = new System.Windows.Forms.Padding(10);
-            this.btnLITea.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnLITea.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnLITea.Name = "btnLITea";
-            this.btnLITea.Size = new System.Drawing.Size(134, 134);
-            this.btnLITea.TabIndex = 17;
-            this.btnLITea.Text = "Black Tea";
-            this.btnLITea.UseVisualStyleBackColor = false;
-            this.btnLITea.Click += new System.EventHandler(this.btnLITea_Click);
-            // 
-            // btnGTea
-            // 
-            this.btnGTea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnGTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnGTea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnGTea.BackColor = System.Drawing.Color.Transparent;
-            this.btnGTea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnGTea.BackgroundImage")));
-            this.btnGTea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnGTea.FlatAppearance.BorderSize = 0;
-            this.btnGTea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnGTea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnGTea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnGTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGTea.ForeColor = System.Drawing.Color.Transparent;
-            this.btnGTea.Location = new System.Drawing.Point(346, 256);
-            this.btnGTea.Margin = new System.Windows.Forms.Padding(10);
-            this.btnGTea.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnGTea.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnGTea.Name = "btnGTea";
-            this.btnGTea.Size = new System.Drawing.Size(134, 134);
-            this.btnGTea.TabIndex = 15;
-            this.btnGTea.Text = "Green Tea";
-            this.btnGTea.UseVisualStyleBackColor = false;
-            this.btnGTea.Click += new System.EventHandler(this.btnLITea_Click);
             // 
             // label16
             // 
@@ -974,1034 +634,6 @@
             this.button11.UseVisualStyleBackColor = true;
             this.button11.Click += new System.EventHandler(this.c1_Click);
             // 
-            // gbdrink
-            // 
-            this.gbdrink.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.gbdrink.Controls.Add(this.btnsoftdrink);
-            this.gbdrink.Controls.Add(this.btnshakes);
-            this.gbdrink.Controls.Add(this.btncofee);
-            this.gbdrink.Controls.Add(this.btntea);
-            this.gbdrink.Location = new System.Drawing.Point(16, 58);
-            this.gbdrink.MaximumSize = new System.Drawing.Size(120, 500);
-            this.gbdrink.Name = "gbdrink";
-            this.gbdrink.Size = new System.Drawing.Size(120, 500);
-            this.gbdrink.TabIndex = 3;
-            this.gbdrink.TabStop = false;
-            this.gbdrink.Text = "DRINK";
-            // 
-            // btnsoftdrink
-            // 
-            this.btnsoftdrink.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnsoftdrink.BackColor = System.Drawing.Color.Transparent;
-            this.btnsoftdrink.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnsoftdrink.BackgroundImage")));
-            this.btnsoftdrink.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnsoftdrink.FlatAppearance.BorderSize = 0;
-            this.btnsoftdrink.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnsoftdrink.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnsoftdrink.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnsoftdrink.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnsoftdrink.ForeColor = System.Drawing.Color.Transparent;
-            this.btnsoftdrink.Location = new System.Drawing.Point(10, 386);
-            this.btnsoftdrink.MaximumSize = new System.Drawing.Size(100, 100);
-            this.btnsoftdrink.MinimumSize = new System.Drawing.Size(50, 50);
-            this.btnsoftdrink.Name = "btnsoftdrink";
-            this.btnsoftdrink.Size = new System.Drawing.Size(100, 100);
-            this.btnsoftdrink.TabIndex = 10;
-            this.btnsoftdrink.UseVisualStyleBackColor = false;
-            this.btnsoftdrink.Click += new System.EventHandler(this.btnsoftdrink_Click);
-            // 
-            // btnshakes
-            // 
-            this.btnshakes.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnshakes.BackColor = System.Drawing.Color.Transparent;
-            this.btnshakes.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnshakes.BackgroundImage")));
-            this.btnshakes.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnshakes.FlatAppearance.BorderSize = 0;
-            this.btnshakes.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnshakes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnshakes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnshakes.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnshakes.ForeColor = System.Drawing.Color.Transparent;
-            this.btnshakes.Location = new System.Drawing.Point(10, 265);
-            this.btnshakes.MaximumSize = new System.Drawing.Size(100, 100);
-            this.btnshakes.MinimumSize = new System.Drawing.Size(50, 50);
-            this.btnshakes.Name = "btnshakes";
-            this.btnshakes.Size = new System.Drawing.Size(100, 100);
-            this.btnshakes.TabIndex = 11;
-            this.btnshakes.UseVisualStyleBackColor = false;
-            this.btnshakes.Click += new System.EventHandler(this.btnshakes_Click);
-            // 
-            // btncofee
-            // 
-            this.btncofee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btncofee.BackColor = System.Drawing.Color.Transparent;
-            this.btncofee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btncofee.BackgroundImage")));
-            this.btncofee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btncofee.FlatAppearance.BorderSize = 0;
-            this.btncofee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btncofee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btncofee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btncofee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btncofee.ForeColor = System.Drawing.Color.Transparent;
-            this.btncofee.Location = new System.Drawing.Point(10, 144);
-            this.btncofee.MaximumSize = new System.Drawing.Size(100, 100);
-            this.btncofee.MinimumSize = new System.Drawing.Size(50, 50);
-            this.btncofee.Name = "btncofee";
-            this.btncofee.Size = new System.Drawing.Size(100, 100);
-            this.btncofee.TabIndex = 12;
-            this.btncofee.UseVisualStyleBackColor = false;
-            this.btncofee.Click += new System.EventHandler(this.btncofee_Click);
-            // 
-            // btntea
-            // 
-            this.btntea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btntea.BackColor = System.Drawing.Color.Transparent;
-            this.btntea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btntea.BackgroundImage")));
-            this.btntea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btntea.FlatAppearance.BorderSize = 0;
-            this.btntea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btntea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btntea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btntea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btntea.ForeColor = System.Drawing.Color.Transparent;
-            this.btntea.Location = new System.Drawing.Point(10, 23);
-            this.btntea.MaximumSize = new System.Drawing.Size(100, 100);
-            this.btntea.MinimumSize = new System.Drawing.Size(50, 50);
-            this.btntea.Name = "btntea";
-            this.btntea.Size = new System.Drawing.Size(100, 100);
-            this.btntea.TabIndex = 13;
-            this.btntea.UseVisualStyleBackColor = false;
-            this.btntea.Click += new System.EventHandler(this.btntea_Click);
-            // 
-            // gbFood
-            // 
-            this.gbFood.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.gbFood.Controls.Add(this.button52);
-            this.gbFood.Controls.Add(this.button53);
-            this.gbFood.Controls.Add(this.button54);
-            this.gbFood.Controls.Add(this.button55);
-            this.gbFood.Location = new System.Drawing.Point(16, 58);
-            this.gbFood.MaximumSize = new System.Drawing.Size(120, 500);
-            this.gbFood.Name = "gbFood";
-            this.gbFood.Size = new System.Drawing.Size(120, 500);
-            this.gbFood.TabIndex = 14;
-            this.gbFood.TabStop = false;
-            this.gbFood.Text = "FOOD";
-            // 
-            // button52
-            // 
-            this.button52.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.button52.BackColor = System.Drawing.Color.Transparent;
-            this.button52.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button52.BackgroundImage")));
-            this.button52.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button52.FlatAppearance.BorderSize = 0;
-            this.button52.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.button52.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.button52.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button52.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button52.ForeColor = System.Drawing.Color.Transparent;
-            this.button52.Location = new System.Drawing.Point(10, 384);
-            this.button52.MaximumSize = new System.Drawing.Size(100, 100);
-            this.button52.MinimumSize = new System.Drawing.Size(50, 50);
-            this.button52.Name = "button52";
-            this.button52.Size = new System.Drawing.Size(100, 100);
-            this.button52.TabIndex = 10;
-            this.button52.Text = "hot dogs";
-            this.button52.UseVisualStyleBackColor = false;
-            this.button52.Click += new System.EventHandler(this.button52_Click);
-            // 
-            // button53
-            // 
-            this.button53.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.button53.BackColor = System.Drawing.Color.Transparent;
-            this.button53.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button53.BackgroundImage")));
-            this.button53.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button53.FlatAppearance.BorderSize = 0;
-            this.button53.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.button53.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.button53.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button53.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button53.ForeColor = System.Drawing.Color.Transparent;
-            this.button53.Location = new System.Drawing.Point(10, 265);
-            this.button53.MaximumSize = new System.Drawing.Size(100, 100);
-            this.button53.MinimumSize = new System.Drawing.Size(50, 50);
-            this.button53.Name = "button53";
-            this.button53.Size = new System.Drawing.Size(100, 100);
-            this.button53.TabIndex = 11;
-            this.button53.Text = "burgers";
-            this.button53.UseVisualStyleBackColor = false;
-            this.button53.Click += new System.EventHandler(this.button53_Click);
-            // 
-            // button54
-            // 
-            this.button54.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.button54.BackColor = System.Drawing.Color.Transparent;
-            this.button54.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button54.BackgroundImage")));
-            this.button54.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button54.FlatAppearance.BorderSize = 0;
-            this.button54.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.button54.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.button54.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button54.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button54.ForeColor = System.Drawing.Color.Transparent;
-            this.button54.Location = new System.Drawing.Point(10, 146);
-            this.button54.MaximumSize = new System.Drawing.Size(100, 100);
-            this.button54.MinimumSize = new System.Drawing.Size(50, 50);
-            this.button54.Name = "button54";
-            this.button54.Size = new System.Drawing.Size(100, 100);
-            this.button54.TabIndex = 12;
-            this.button54.Text = "soups";
-            this.button54.UseVisualStyleBackColor = false;
-            this.button54.Click += new System.EventHandler(this.button54_Click);
-            // 
-            // button55
-            // 
-            this.button55.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.button55.BackColor = System.Drawing.Color.Transparent;
-            this.button55.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button55.BackgroundImage")));
-            this.button55.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button55.FlatAppearance.BorderSize = 0;
-            this.button55.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.button55.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.button55.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button55.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button55.ForeColor = System.Drawing.Color.Transparent;
-            this.button55.Location = new System.Drawing.Point(10, 27);
-            this.button55.MaximumSize = new System.Drawing.Size(100, 100);
-            this.button55.MinimumSize = new System.Drawing.Size(50, 50);
-            this.button55.Name = "button55";
-            this.button55.Size = new System.Drawing.Size(100, 100);
-            this.button55.TabIndex = 13;
-            this.button55.Text = "sandwich";
-            this.button55.UseVisualStyleBackColor = false;
-            this.button55.Click += new System.EventHandler(this.button55_Click);
-            // 
-            // gbtopping
-            // 
-            this.gbtopping.BackColor = System.Drawing.SystemColors.Highlight;
-            this.gbtopping.Controls.Add(this.lblCTopping);
-            this.gbtopping.Controls.Add(this.lblSICTopping);
-            this.gbtopping.Controls.Add(this.label7);
-            this.gbtopping.Controls.Add(this.lblSICToppingP);
-            this.gbtopping.Controls.Add(this.lblWCToppingP);
-            this.gbtopping.Controls.Add(this.lblWCTopping);
-            this.gbtopping.Controls.Add(this.btnCTopping);
-            this.gbtopping.Controls.Add(this.btnSICTopping);
-            this.gbtopping.Controls.Add(this.btnNON);
-            this.gbtopping.Controls.Add(this.btnWCTopping);
-            this.gbtopping.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.gbtopping.Location = new System.Drawing.Point(249, 40);
-            this.gbtopping.Name = "gbtopping";
-            this.gbtopping.Size = new System.Drawing.Size(606, 494);
-            this.gbtopping.TabIndex = 20;
-            this.gbtopping.TabStop = false;
-            this.gbtopping.Text = "TOPPING";
-            // 
-            // lblCTopping
-            // 
-            this.lblCTopping.AutoSize = true;
-            this.lblCTopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCTopping.Location = new System.Drawing.Point(178, 395);
-            this.lblCTopping.Name = "lblCTopping";
-            this.lblCTopping.Size = new System.Drawing.Size(109, 25);
-            this.lblCTopping.TabIndex = 6;
-            this.lblCTopping.Text = "Chocolate";
-            // 
-            // lblSICTopping
-            // 
-            this.lblSICTopping.AutoSize = true;
-            this.lblSICTopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSICTopping.Location = new System.Drawing.Point(178, 240);
-            this.lblSICTopping.Name = "lblSICTopping";
-            this.lblSICTopping.Size = new System.Drawing.Size(204, 25);
-            this.lblSICTopping.TabIndex = 6;
-            this.lblSICTopping.Text = "Scoop Of Ice Cream";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(178, 439);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(81, 31);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "Price";
-            // 
-            // lblSICToppingP
-            // 
-            this.lblSICToppingP.AutoSize = true;
-            this.lblSICToppingP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSICToppingP.Location = new System.Drawing.Point(178, 283);
-            this.lblSICToppingP.Name = "lblSICToppingP";
-            this.lblSICToppingP.Size = new System.Drawing.Size(81, 31);
-            this.lblSICToppingP.TabIndex = 6;
-            this.lblSICToppingP.Text = "Price";
-            // 
-            // lblWCToppingP
-            // 
-            this.lblWCToppingP.AutoSize = true;
-            this.lblWCToppingP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWCToppingP.Location = new System.Drawing.Point(178, 94);
-            this.lblWCToppingP.Name = "lblWCToppingP";
-            this.lblWCToppingP.Size = new System.Drawing.Size(81, 31);
-            this.lblWCToppingP.TabIndex = 6;
-            this.lblWCToppingP.Text = "Price";
-            // 
-            // lblWCTopping
-            // 
-            this.lblWCTopping.AutoSize = true;
-            this.lblWCTopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblWCTopping.Location = new System.Drawing.Point(178, 53);
-            this.lblWCTopping.Name = "lblWCTopping";
-            this.lblWCTopping.Size = new System.Drawing.Size(166, 25);
-            this.lblWCTopping.TabIndex = 6;
-            this.lblWCTopping.Text = "Whipped Cream";
-            // 
-            // btnCTopping
-            // 
-            this.btnCTopping.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCTopping.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCTopping.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCTopping.Location = new System.Drawing.Point(23, 372);
-            this.btnCTopping.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCTopping.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnCTopping.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnCTopping.Name = "btnCTopping";
-            this.btnCTopping.Size = new System.Drawing.Size(142, 120);
-            this.btnCTopping.TabIndex = 5;
-            this.btnCTopping.Text = "Chocolate";
-            this.btnCTopping.UseVisualStyleBackColor = true;
-            this.btnCTopping.Click += new System.EventHandler(this.btnWCTopping_Click);
-            // 
-            // btnSICTopping
-            // 
-            this.btnSICTopping.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnSICTopping.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSICTopping.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnSICTopping.Location = new System.Drawing.Point(23, 205);
-            this.btnSICTopping.Margin = new System.Windows.Forms.Padding(10);
-            this.btnSICTopping.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnSICTopping.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnSICTopping.Name = "btnSICTopping";
-            this.btnSICTopping.Size = new System.Drawing.Size(139, 120);
-            this.btnSICTopping.TabIndex = 5;
-            this.btnSICTopping.Text = "Scoop Of Ice Cream";
-            this.btnSICTopping.UseVisualStyleBackColor = true;
-            this.btnSICTopping.Click += new System.EventHandler(this.btnWCTopping_Click);
-            // 
-            // btnNON
-            // 
-            this.btnNON.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnNON.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnNON.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnNON.Location = new System.Drawing.Point(390, 24);
-            this.btnNON.Margin = new System.Windows.Forms.Padding(10);
-            this.btnNON.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnNON.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnNON.Name = "btnNON";
-            this.btnNON.Size = new System.Drawing.Size(134, 120);
-            this.btnNON.TabIndex = 5;
-            this.btnNON.Text = "NON";
-            this.btnNON.UseVisualStyleBackColor = true;
-            this.btnNON.Click += new System.EventHandler(this.btnNON_Click);
-            // 
-            // btnWCTopping
-            // 
-            this.btnWCTopping.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnWCTopping.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnWCTopping.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnWCTopping.Location = new System.Drawing.Point(23, 25);
-            this.btnWCTopping.Margin = new System.Windows.Forms.Padding(10);
-            this.btnWCTopping.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnWCTopping.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnWCTopping.Name = "btnWCTopping";
-            this.btnWCTopping.Size = new System.Drawing.Size(134, 120);
-            this.btnWCTopping.TabIndex = 5;
-            this.btnWCTopping.Text = "Whipped Cream";
-            this.btnWCTopping.UseVisualStyleBackColor = true;
-            this.btnWCTopping.Click += new System.EventHandler(this.btnWCTopping_Click);
-            // 
-            // gbCofee
-            // 
-            this.gbCofee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.gbCofee.Controls.Add(this.panel1);
-            this.gbCofee.Location = new System.Drawing.Point(152, 58);
-            this.gbCofee.Name = "gbCofee";
-            this.gbCofee.Size = new System.Drawing.Size(712, 505);
-            this.gbCofee.TabIndex = 11;
-            this.gbCofee.TabStop = false;
-            this.gbCofee.Text = "COFFEE";
-            // 
-            // panel1
-            // 
-            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel1.AutoScroll = true;
-            this.panel1.AutoScrollMinSize = new System.Drawing.Size(770, 700);
-            this.panel1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.panel1.Controls.Add(this.lblACoffeP);
-            this.panel1.Controls.Add(this.lblMLCoffeeP);
-            this.panel1.Controls.Add(this.lblCCoffeeP);
-            this.panel1.Controls.Add(this.lblCBLCoffeeP);
-            this.panel1.Controls.Add(this.lblCaLCoffeeP);
-            this.panel1.Controls.Add(this.lblCLCoffeP);
-            this.panel1.Controls.Add(this.lblMLCoffee);
-            this.panel1.Controls.Add(this.lblACoffe);
-            this.panel1.Controls.Add(this.lblCBLCoffee);
-            this.panel1.Controls.Add(this.lblCaLCoffee);
-            this.panel1.Controls.Add(this.lblCLCoffe);
-            this.panel1.Controls.Add(this.lblCCoffee);
-            this.panel1.Controls.Add(this.btnACoffe);
-            this.panel1.Controls.Add(this.btnCBLCoffee);
-            this.panel1.Controls.Add(this.btnCaLCoffee);
-            this.panel1.Controls.Add(this.btnCLCoffe);
-            this.panel1.Controls.Add(this.btnCCoffee);
-            this.panel1.Controls.Add(this.btnMLCoffee);
-            this.panel1.Location = new System.Drawing.Point(6, 17);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(700, 480);
-            this.panel1.TabIndex = 10;
-            // 
-            // lblACoffeP
-            // 
-            this.lblACoffeP.AutoSize = true;
-            this.lblACoffeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblACoffeP.Location = new System.Drawing.Point(535, 80);
-            this.lblACoffeP.Name = "lblACoffeP";
-            this.lblACoffeP.Size = new System.Drawing.Size(66, 25);
-            this.lblACoffeP.TabIndex = 39;
-            this.lblACoffeP.Text = "Price";
-            // 
-            // lblMLCoffeeP
-            // 
-            this.lblMLCoffeeP.AutoSize = true;
-            this.lblMLCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMLCoffeeP.Location = new System.Drawing.Point(535, 328);
-            this.lblMLCoffeeP.Name = "lblMLCoffeeP";
-            this.lblMLCoffeeP.Size = new System.Drawing.Size(66, 25);
-            this.lblMLCoffeeP.TabIndex = 38;
-            this.lblMLCoffeeP.Text = "Price";
-            // 
-            // lblCCoffeeP
-            // 
-            this.lblCCoffeeP.AutoSize = true;
-            this.lblCCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCCoffeeP.Location = new System.Drawing.Point(209, 76);
-            this.lblCCoffeeP.Name = "lblCCoffeeP";
-            this.lblCCoffeeP.Size = new System.Drawing.Size(66, 25);
-            this.lblCCoffeeP.TabIndex = 37;
-            this.lblCCoffeeP.Text = "Price";
-            // 
-            // lblCBLCoffeeP
-            // 
-            this.lblCBLCoffeeP.AutoSize = true;
-            this.lblCBLCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCBLCoffeeP.Location = new System.Drawing.Point(529, 523);
-            this.lblCBLCoffeeP.Name = "lblCBLCoffeeP";
-            this.lblCBLCoffeeP.Size = new System.Drawing.Size(66, 25);
-            this.lblCBLCoffeeP.TabIndex = 36;
-            this.lblCBLCoffeeP.Text = "Price";
-            // 
-            // lblCaLCoffeeP
-            // 
-            this.lblCaLCoffeeP.AutoSize = true;
-            this.lblCaLCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCaLCoffeeP.Location = new System.Drawing.Point(209, 525);
-            this.lblCaLCoffeeP.Name = "lblCaLCoffeeP";
-            this.lblCaLCoffeeP.Size = new System.Drawing.Size(66, 25);
-            this.lblCaLCoffeeP.TabIndex = 36;
-            this.lblCaLCoffeeP.Text = "Price";
-            // 
-            // lblCLCoffeP
-            // 
-            this.lblCLCoffeP.AutoSize = true;
-            this.lblCLCoffeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCLCoffeP.Location = new System.Drawing.Point(209, 324);
-            this.lblCLCoffeP.Name = "lblCLCoffeP";
-            this.lblCLCoffeP.Size = new System.Drawing.Size(66, 25);
-            this.lblCLCoffeP.TabIndex = 36;
-            this.lblCLCoffeP.Text = "Price";
-            // 
-            // lblMLCoffee
-            // 
-            this.lblMLCoffee.AutoSize = true;
-            this.lblMLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMLCoffee.Location = new System.Drawing.Point(376, 420);
-            this.lblMLCoffee.Name = "lblMLCoffee";
-            this.lblMLCoffee.Size = new System.Drawing.Size(87, 20);
-            this.lblMLCoffee.TabIndex = 35;
-            this.lblMLCoffee.Text = "Iced Cofee";
-            // 
-            // lblACoffe
-            // 
-            this.lblACoffe.AutoSize = true;
-            this.lblACoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblACoffe.Location = new System.Drawing.Point(377, 168);
-            this.lblACoffe.Name = "lblACoffe";
-            this.lblACoffe.Size = new System.Drawing.Size(85, 20);
-            this.lblACoffe.TabIndex = 35;
-            this.lblACoffe.Text = "Americano";
-            // 
-            // lblCBLCoffee
-            // 
-            this.lblCBLCoffee.AutoSize = true;
-            this.lblCBLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCBLCoffee.Location = new System.Drawing.Point(381, 620);
-            this.lblCBLCoffee.Name = "lblCBLCoffee";
-            this.lblCBLCoffee.Size = new System.Drawing.Size(76, 20);
-            this.lblCBLCoffee.TabIndex = 34;
-            this.lblCBLCoffee.Text = "Espresso";
-            // 
-            // lblCaLCoffee
-            // 
-            this.lblCaLCoffee.AutoSize = true;
-            this.lblCaLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCaLCoffee.Location = new System.Drawing.Point(62, 624);
-            this.lblCaLCoffee.Name = "lblCaLCoffee";
-            this.lblCaLCoffee.Size = new System.Drawing.Size(81, 20);
-            this.lblCaLCoffee.TabIndex = 34;
-            this.lblCaLCoffee.Text = "Flat White";
-            // 
-            // lblCLCoffe
-            // 
-            this.lblCLCoffe.AutoSize = true;
-            this.lblCLCoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCLCoffe.Location = new System.Drawing.Point(60, 420);
-            this.lblCLCoffe.Name = "lblCLCoffe";
-            this.lblCLCoffe.Size = new System.Drawing.Size(84, 20);
-            this.lblCLCoffe.TabIndex = 34;
-            this.lblCLCoffe.Text = "Cafe Latte";
-            // 
-            // lblCCoffee
-            // 
-            this.lblCCoffee.AutoSize = true;
-            this.lblCCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCCoffee.Location = new System.Drawing.Point(60, 168);
-            this.lblCCoffee.Name = "lblCCoffee";
-            this.lblCCoffee.Size = new System.Drawing.Size(85, 20);
-            this.lblCCoffee.TabIndex = 34;
-            this.lblCCoffee.Text = "Cappucino";
-            // 
-            // btnACoffe
-            // 
-            this.btnACoffe.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnACoffe.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnACoffe.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnACoffe.BackColor = System.Drawing.Color.Transparent;
-            this.btnACoffe.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnACoffe.BackgroundImage")));
-            this.btnACoffe.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnACoffe.FlatAppearance.BorderSize = 0;
-            this.btnACoffe.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnACoffe.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnACoffe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnACoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnACoffe.ForeColor = System.Drawing.Color.Transparent;
-            this.btnACoffe.Location = new System.Drawing.Point(352, 29);
-            this.btnACoffe.Margin = new System.Windows.Forms.Padding(10);
-            this.btnACoffe.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnACoffe.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnACoffe.Name = "btnACoffe";
-            this.btnACoffe.Size = new System.Drawing.Size(134, 134);
-            this.btnACoffe.TabIndex = 32;
-            this.btnACoffe.Text = "Americano";
-            this.btnACoffe.UseVisualStyleBackColor = false;
-            this.btnACoffe.Click += new System.EventHandler(this.btnCCoffee_Click);
-            // 
-            // btnCBLCoffee
-            // 
-            this.btnCBLCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCBLCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCBLCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCBLCoffee.BackColor = System.Drawing.Color.Transparent;
-            this.btnCBLCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCBLCoffee.BackgroundImage")));
-            this.btnCBLCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCBLCoffee.FlatAppearance.BorderSize = 0;
-            this.btnCBLCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCBLCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCBLCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCBLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCBLCoffee.ForeColor = System.Drawing.Color.Maroon;
-            this.btnCBLCoffee.Location = new System.Drawing.Point(352, 478);
-            this.btnCBLCoffee.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCBLCoffee.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnCBLCoffee.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnCBLCoffee.Name = "btnCBLCoffee";
-            this.btnCBLCoffee.Size = new System.Drawing.Size(134, 134);
-            this.btnCBLCoffee.TabIndex = 30;
-            this.btnCBLCoffee.Text = "Espresso";
-            this.btnCBLCoffee.UseVisualStyleBackColor = false;
-            this.btnCBLCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
-            // 
-            // btnCaLCoffee
-            // 
-            this.btnCaLCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCaLCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCaLCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCaLCoffee.BackColor = System.Drawing.Color.Transparent;
-            this.btnCaLCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCaLCoffee.BackgroundImage")));
-            this.btnCaLCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCaLCoffee.FlatAppearance.BorderSize = 0;
-            this.btnCaLCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCaLCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCaLCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCaLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.1111F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCaLCoffee.ForeColor = System.Drawing.Color.Chocolate;
-            this.btnCaLCoffee.Location = new System.Drawing.Point(35, 480);
-            this.btnCaLCoffee.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCaLCoffee.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnCaLCoffee.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnCaLCoffee.Name = "btnCaLCoffee";
-            this.btnCaLCoffee.Size = new System.Drawing.Size(134, 134);
-            this.btnCaLCoffee.TabIndex = 30;
-            this.btnCaLCoffee.Text = "Flat White";
-            this.btnCaLCoffee.UseVisualStyleBackColor = false;
-            this.btnCaLCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
-            // 
-            // btnCLCoffe
-            // 
-            this.btnCLCoffe.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCLCoffe.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCLCoffe.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCLCoffe.BackColor = System.Drawing.Color.Transparent;
-            this.btnCLCoffe.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCLCoffe.BackgroundImage")));
-            this.btnCLCoffe.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCLCoffe.FlatAppearance.BorderSize = 0;
-            this.btnCLCoffe.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCLCoffe.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCLCoffe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCLCoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCLCoffe.ForeColor = System.Drawing.Color.Transparent;
-            this.btnCLCoffe.Location = new System.Drawing.Point(35, 279);
-            this.btnCLCoffe.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCLCoffe.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnCLCoffe.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnCLCoffe.Name = "btnCLCoffe";
-            this.btnCLCoffe.Size = new System.Drawing.Size(134, 134);
-            this.btnCLCoffe.TabIndex = 30;
-            this.btnCLCoffe.Text = "Cafe Latte";
-            this.btnCLCoffe.UseVisualStyleBackColor = false;
-            this.btnCLCoffe.Click += new System.EventHandler(this.btnCCoffee_Click);
-            // 
-            // btnCCoffee
-            // 
-            this.btnCCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCCoffee.BackColor = System.Drawing.Color.Transparent;
-            this.btnCCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCCoffee.BackgroundImage")));
-            this.btnCCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCCoffee.FlatAppearance.BorderSize = 0;
-            this.btnCCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCCoffee.ForeColor = System.Drawing.Color.Transparent;
-            this.btnCCoffee.Location = new System.Drawing.Point(35, 29);
-            this.btnCCoffee.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCCoffee.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnCCoffee.MinimumSize = new System.Drawing.Size(134, 120);
-            this.btnCCoffee.Name = "btnCCoffee";
-            this.btnCCoffee.Size = new System.Drawing.Size(134, 134);
-            this.btnCCoffee.TabIndex = 33;
-            this.btnCCoffee.Text = "Cappucino";
-            this.btnCCoffee.UseVisualStyleBackColor = false;
-            this.btnCCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
-            // 
-            // btnMLCoffee
-            // 
-            this.btnMLCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnMLCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnMLCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnMLCoffee.BackColor = System.Drawing.Color.Transparent;
-            this.btnMLCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnMLCoffee.BackgroundImage")));
-            this.btnMLCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnMLCoffee.FlatAppearance.BorderSize = 0;
-            this.btnMLCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnMLCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnMLCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMLCoffee.ForeColor = System.Drawing.Color.Transparent;
-            this.btnMLCoffee.Location = new System.Drawing.Point(352, 279);
-            this.btnMLCoffee.Margin = new System.Windows.Forms.Padding(10);
-            this.btnMLCoffee.MaximumSize = new System.Drawing.Size(174, 160);
-            this.btnMLCoffee.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnMLCoffee.Name = "btnMLCoffee";
-            this.btnMLCoffee.Size = new System.Drawing.Size(134, 134);
-            this.btnMLCoffee.TabIndex = 31;
-            this.btnMLCoffee.Text = "Iced Cofee";
-            this.btnMLCoffee.UseVisualStyleBackColor = false;
-            this.btnMLCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
-            // 
-            // gbHotDog
-            // 
-            this.gbHotDog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.gbHotDog.Controls.Add(this.panel7);
-            this.gbHotDog.Location = new System.Drawing.Point(152, 58);
-            this.gbHotDog.Name = "gbHotDog";
-            this.gbHotDog.Size = new System.Drawing.Size(712, 505);
-            this.gbHotDog.TabIndex = 16;
-            this.gbHotDog.TabStop = false;
-            this.gbHotDog.Text = "HOT DOGS";
-            // 
-            // panel7
-            // 
-            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel7.AutoScroll = true;
-            this.panel7.AutoScrollMargin = new System.Drawing.Size(0, 12);
-            this.panel7.AutoScrollMinSize = new System.Drawing.Size(400, 450);
-            this.panel7.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.panel7.Controls.Add(this.lblCHDogP);
-            this.panel7.Controls.Add(this.lblNSHDogP);
-            this.panel7.Controls.Add(this.lblCHDog);
-            this.panel7.Controls.Add(this.lblNSHDog);
-            this.panel7.Controls.Add(this.btnCHDog);
-            this.panel7.Controls.Add(this.btnNSHDog);
-            this.panel7.Location = new System.Drawing.Point(7, 14);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(697, 488);
-            this.panel7.TabIndex = 10;
-            // 
-            // lblCHDogP
-            // 
-            this.lblCHDogP.AutoSize = true;
-            this.lblCHDogP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCHDogP.Location = new System.Drawing.Point(250, 361);
-            this.lblCHDogP.Name = "lblCHDogP";
-            this.lblCHDogP.Size = new System.Drawing.Size(66, 25);
-            this.lblCHDogP.TabIndex = 40;
-            this.lblCHDogP.Text = "Price";
-            // 
-            // lblNSHDogP
-            // 
-            this.lblNSHDogP.AutoSize = true;
-            this.lblNSHDogP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNSHDogP.Location = new System.Drawing.Point(250, 112);
-            this.lblNSHDogP.Name = "lblNSHDogP";
-            this.lblNSHDogP.Size = new System.Drawing.Size(66, 25);
-            this.lblNSHDogP.TabIndex = 40;
-            this.lblNSHDogP.Text = "Price";
-            // 
-            // lblCHDog
-            // 
-            this.lblCHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCHDog.Location = new System.Drawing.Point(252, 314);
-            this.lblCHDog.Name = "lblCHDog";
-            this.lblCHDog.Size = new System.Drawing.Size(168, 31);
-            this.lblCHDog.TabIndex = 10;
-            this.lblCHDog.Text = "Chili Chicken ";
-            // 
-            // lblNSHDog
-            // 
-            this.lblNSHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNSHDog.Location = new System.Drawing.Point(252, 78);
-            this.lblNSHDog.Name = "lblNSHDog";
-            this.lblNSHDog.Size = new System.Drawing.Size(168, 31);
-            this.lblNSHDog.TabIndex = 10;
-            this.lblNSHDog.Text = "Noir Special";
-            this.lblNSHDog.Click += new System.EventHandler(this.label19_Click);
-            // 
-            // btnCHDog
-            // 
-            this.btnCHDog.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCHDog.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCHDog.BackColor = System.Drawing.Color.Transparent;
-            this.btnCHDog.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCHDog.BackgroundImage")));
-            this.btnCHDog.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCHDog.FlatAppearance.BorderSize = 0;
-            this.btnCHDog.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCHDog.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCHDog.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCHDog.Location = new System.Drawing.Point(35, 271);
-            this.btnCHDog.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCHDog.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnCHDog.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnCHDog.Name = "btnCHDog";
-            this.btnCHDog.Size = new System.Drawing.Size(160, 160);
-            this.btnCHDog.TabIndex = 5;
-            this.btnCHDog.Text = "Chili Chicken ";
-            this.btnCHDog.UseVisualStyleBackColor = false;
-            this.btnCHDog.Click += new System.EventHandler(this.btnNSHDog_Click);
-            // 
-            // btnNSHDog
-            // 
-            this.btnNSHDog.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnNSHDog.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnNSHDog.BackColor = System.Drawing.Color.Transparent;
-            this.btnNSHDog.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnNSHDog.BackgroundImage")));
-            this.btnNSHDog.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnNSHDog.FlatAppearance.BorderSize = 0;
-            this.btnNSHDog.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnNSHDog.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnNSHDog.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNSHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNSHDog.Location = new System.Drawing.Point(35, 35);
-            this.btnNSHDog.Margin = new System.Windows.Forms.Padding(10);
-            this.btnNSHDog.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnNSHDog.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnNSHDog.Name = "btnNSHDog";
-            this.btnNSHDog.Size = new System.Drawing.Size(160, 160);
-            this.btnNSHDog.TabIndex = 5;
-            this.btnNSHDog.Text = "Noir Special";
-            this.btnNSHDog.UseVisualStyleBackColor = false;
-            this.btnNSHDog.Click += new System.EventHandler(this.btnNSHDog_Click);
-            // 
-            // gbburger
-            // 
-            this.gbburger.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.gbburger.Controls.Add(this.panel6);
-            this.gbburger.Location = new System.Drawing.Point(152, 58);
-            this.gbburger.Name = "gbburger";
-            this.gbburger.Size = new System.Drawing.Size(712, 505);
-            this.gbburger.TabIndex = 15;
-            this.gbburger.TabStop = false;
-            this.gbburger.Text = "BURGERS";
-            // 
-            // panel6
-            // 
-            this.panel6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel6.AutoScroll = true;
-            this.panel6.AutoScrollMargin = new System.Drawing.Size(0, 12);
-            this.panel6.AutoScrollMinSize = new System.Drawing.Size(400, 950);
-            this.panel6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.panel6.Controls.Add(this.lblCCPCburgerP);
-            this.panel6.Controls.Add(this.lblBBurgerP);
-            this.panel6.Controls.Add(this.lblVburgerP);
-            this.panel6.Controls.Add(this.lblddcburgerP);
-            this.panel6.Controls.Add(this.lblBBurger);
-            this.panel6.Controls.Add(this.lblCCPCburger);
-            this.panel6.Controls.Add(this.lblVburger);
-            this.panel6.Controls.Add(this.lblddcburger);
-            this.panel6.Controls.Add(this.btnBBurger);
-            this.panel6.Controls.Add(this.btnCCPCburger);
-            this.panel6.Controls.Add(this.btnVburger);
-            this.panel6.Controls.Add(this.btnddcburger);
-            this.panel6.Location = new System.Drawing.Point(8, 14);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(698, 485);
-            this.panel6.TabIndex = 10;
-            this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
-            // 
-            // lblCCPCburgerP
-            // 
-            this.lblCCPCburgerP.AutoSize = true;
-            this.lblCCPCburgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCCPCburgerP.Location = new System.Drawing.Point(242, 607);
-            this.lblCCPCburgerP.Name = "lblCCPCburgerP";
-            this.lblCCPCburgerP.Size = new System.Drawing.Size(81, 31);
-            this.lblCCPCburgerP.TabIndex = 11;
-            this.lblCCPCburgerP.Text = "Price";
-            // 
-            // lblBBurgerP
-            // 
-            this.lblBBurgerP.AutoSize = true;
-            this.lblBBurgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBBurgerP.Location = new System.Drawing.Point(242, 856);
-            this.lblBBurgerP.Name = "lblBBurgerP";
-            this.lblBBurgerP.Size = new System.Drawing.Size(81, 31);
-            this.lblBBurgerP.TabIndex = 11;
-            this.lblBBurgerP.Text = "Price";
-            // 
-            // lblVburgerP
-            // 
-            this.lblVburgerP.AutoSize = true;
-            this.lblVburgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVburgerP.Location = new System.Drawing.Point(242, 370);
-            this.lblVburgerP.Name = "lblVburgerP";
-            this.lblVburgerP.Size = new System.Drawing.Size(81, 31);
-            this.lblVburgerP.TabIndex = 11;
-            this.lblVburgerP.Text = "Price";
-            this.lblVburgerP.Click += new System.EventHandler(this.label73_Click);
-            // 
-            // lblddcburgerP
-            // 
-            this.lblddcburgerP.AutoSize = true;
-            this.lblddcburgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblddcburgerP.Location = new System.Drawing.Point(242, 119);
-            this.lblddcburgerP.Name = "lblddcburgerP";
-            this.lblddcburgerP.Size = new System.Drawing.Size(81, 31);
-            this.lblddcburgerP.TabIndex = 11;
-            this.lblddcburgerP.Text = "Price";
-            // 
-            // lblBBurger
-            // 
-            this.lblBBurger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBBurger.Location = new System.Drawing.Point(242, 805);
-            this.lblBBurger.Name = "lblBBurger";
-            this.lblBBurger.Size = new System.Drawing.Size(168, 31);
-            this.lblBBurger.TabIndex = 10;
-            this.lblBBurger.Text = "Beef Burger";
-            // 
-            // lblCCPCburger
-            // 
-            this.lblCCPCburger.AutoSize = true;
-            this.lblCCPCburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCCPCburger.Location = new System.Drawing.Point(242, 561);
-            this.lblCCPCburger.Name = "lblCCPCburger";
-            this.lblCCPCburger.Size = new System.Drawing.Size(321, 25);
-            this.lblCCPCburger.TabIndex = 10;
-            this.lblCCPCburger.Text = "Crispy Chiken Burger with Chips";
-            // 
-            // lblVburger
-            // 
-            this.lblVburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVburger.Location = new System.Drawing.Point(242, 316);
-            this.lblVburger.Name = "lblVburger";
-            this.lblVburger.Size = new System.Drawing.Size(168, 31);
-            this.lblVburger.TabIndex = 10;
-            this.lblVburger.Text = "Veggie";
-            // 
-            // lblddcburger
-            // 
-            this.lblddcburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblddcburger.Location = new System.Drawing.Point(242, 80);
-            this.lblddcburger.Name = "lblddcburger";
-            this.lblddcburger.Size = new System.Drawing.Size(270, 31);
-            this.lblddcburger.TabIndex = 10;
-            this.lblddcburger.Text = "Double Decker Chiken ";
-            // 
-            // btnBBurger
-            // 
-            this.btnBBurger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnBBurger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnBBurger.BackColor = System.Drawing.Color.Transparent;
-            this.btnBBurger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnBBurger.BackgroundImage")));
-            this.btnBBurger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnBBurger.FlatAppearance.BorderSize = 0;
-            this.btnBBurger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnBBurger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnBBurger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBBurger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBBurger.Location = new System.Drawing.Point(43, 762);
-            this.btnBBurger.Margin = new System.Windows.Forms.Padding(10);
-            this.btnBBurger.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnBBurger.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnBBurger.Name = "btnBBurger";
-            this.btnBBurger.Size = new System.Drawing.Size(160, 160);
-            this.btnBBurger.TabIndex = 5;
-            this.btnBBurger.Text = "Beef Burger";
-            this.btnBBurger.UseVisualStyleBackColor = false;
-            this.btnBBurger.Click += new System.EventHandler(this.btnCCPCburger_Click);
-            // 
-            // btnCCPCburger
-            // 
-            this.btnCCPCburger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnCCPCburger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCCPCburger.BackColor = System.Drawing.Color.Transparent;
-            this.btnCCPCburger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCCPCburger.BackgroundImage")));
-            this.btnCCPCburger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCCPCburger.FlatAppearance.BorderSize = 0;
-            this.btnCCPCburger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnCCPCburger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnCCPCburger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCCPCburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCCPCburger.Location = new System.Drawing.Point(43, 518);
-            this.btnCCPCburger.Margin = new System.Windows.Forms.Padding(10);
-            this.btnCCPCburger.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnCCPCburger.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnCCPCburger.Name = "btnCCPCburger";
-            this.btnCCPCburger.Size = new System.Drawing.Size(160, 160);
-            this.btnCCPCburger.TabIndex = 5;
-            this.btnCCPCburger.Text = "Crispy Chiken Burger with Chips";
-            this.btnCCPCburger.UseVisualStyleBackColor = false;
-            this.btnCCPCburger.Click += new System.EventHandler(this.btnCCPCburger_Click);
-            // 
-            // btnVburger
-            // 
-            this.btnVburger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnVburger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnVburger.BackColor = System.Drawing.Color.Transparent;
-            this.btnVburger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVburger.BackgroundImage")));
-            this.btnVburger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnVburger.FlatAppearance.BorderSize = 0;
-            this.btnVburger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnVburger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnVburger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnVburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVburger.Location = new System.Drawing.Point(43, 273);
-            this.btnVburger.Margin = new System.Windows.Forms.Padding(10);
-            this.btnVburger.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnVburger.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnVburger.Name = "btnVburger";
-            this.btnVburger.Size = new System.Drawing.Size(160, 160);
-            this.btnVburger.TabIndex = 5;
-            this.btnVburger.Text = "Veggie";
-            this.btnVburger.UseVisualStyleBackColor = false;
-            this.btnVburger.Click += new System.EventHandler(this.btnddcburger_Click);
-            // 
-            // btnddcburger
-            // 
-            this.btnddcburger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
-            this.btnddcburger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnddcburger.BackColor = System.Drawing.Color.Transparent;
-            this.btnddcburger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnddcburger.BackgroundImage")));
-            this.btnddcburger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnddcburger.FlatAppearance.BorderSize = 0;
-            this.btnddcburger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnddcburger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnddcburger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnddcburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnddcburger.Location = new System.Drawing.Point(43, 37);
-            this.btnddcburger.Margin = new System.Windows.Forms.Padding(10);
-            this.btnddcburger.MaximumSize = new System.Drawing.Size(160, 160);
-            this.btnddcburger.MinimumSize = new System.Drawing.Size(134, 134);
-            this.btnddcburger.Name = "btnddcburger";
-            this.btnddcburger.Size = new System.Drawing.Size(160, 160);
-            this.btnddcburger.TabIndex = 5;
-            this.btnddcburger.Text = "Double Decker Chicken ";
-            this.btnddcburger.UseVisualStyleBackColor = false;
-            this.btnddcburger.Click += new System.EventHandler(this.btnddcburger_Click);
-            // 
             // gbsoup
             // 
             this.gbsoup.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -2107,6 +739,8 @@
             this.btnCMSoup.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCMSoup.BackgroundImage")));
             this.btnCMSoup.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCMSoup.FlatAppearance.BorderSize = 0;
+            this.btnCMSoup.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCMSoup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnCMSoup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCMSoup.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCMSoup.ForeColor = System.Drawing.Color.Transparent;
@@ -2129,6 +763,8 @@
             this.btnCCsoup.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCCsoup.BackgroundImage")));
             this.btnCCsoup.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCCsoup.FlatAppearance.BorderSize = 0;
+            this.btnCCsoup.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCCsoup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnCCsoup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCCsoup.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCCsoup.ForeColor = System.Drawing.Color.Transparent;
@@ -2151,6 +787,8 @@
             this.btnCSSoup.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCSSoup.BackgroundImage")));
             this.btnCSSoup.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCSSoup.FlatAppearance.BorderSize = 0;
+            this.btnCSSoup.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCSSoup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnCSSoup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCSSoup.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCSSoup.ForeColor = System.Drawing.Color.Transparent;
@@ -2183,7 +821,7 @@
             // 
             this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.panel3.AutoScroll = true;
-            this.panel3.AutoScrollMinSize = new System.Drawing.Size(680, 730);
+            this.panel3.AutoScrollMinSize = new System.Drawing.Size(650, 720);
             this.panel3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.panel3.Controls.Add(this.lblLJuiceP);
             this.panel3.Controls.Add(this.lblPJuiceP);
@@ -2205,7 +843,7 @@
             this.panel3.Controls.Add(this.btnNSFMJuice);
             this.panel3.Location = new System.Drawing.Point(9, 17);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(693, 480);
+            this.panel3.Size = new System.Drawing.Size(697, 480);
             this.panel3.TabIndex = 10;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -3238,6 +1876,1374 @@
             this.btnCShake.UseVisualStyleBackColor = false;
             this.btnCShake.Click += new System.EventHandler(this.btnNTBBShake_Click);
             // 
+            // gbdrink
+            // 
+            this.gbdrink.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbdrink.Controls.Add(this.btnsoftdrink);
+            this.gbdrink.Controls.Add(this.btnshakes);
+            this.gbdrink.Controls.Add(this.btncofee);
+            this.gbdrink.Controls.Add(this.btntea);
+            this.gbdrink.Location = new System.Drawing.Point(16, 58);
+            this.gbdrink.MaximumSize = new System.Drawing.Size(120, 500);
+            this.gbdrink.Name = "gbdrink";
+            this.gbdrink.Size = new System.Drawing.Size(120, 500);
+            this.gbdrink.TabIndex = 3;
+            this.gbdrink.TabStop = false;
+            this.gbdrink.Text = "DRINK";
+            // 
+            // btnsoftdrink
+            // 
+            this.btnsoftdrink.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnsoftdrink.BackColor = System.Drawing.Color.Transparent;
+            this.btnsoftdrink.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnsoftdrink.BackgroundImage")));
+            this.btnsoftdrink.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnsoftdrink.FlatAppearance.BorderSize = 0;
+            this.btnsoftdrink.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnsoftdrink.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnsoftdrink.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnsoftdrink.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnsoftdrink.ForeColor = System.Drawing.Color.Transparent;
+            this.btnsoftdrink.Location = new System.Drawing.Point(10, 386);
+            this.btnsoftdrink.MaximumSize = new System.Drawing.Size(100, 100);
+            this.btnsoftdrink.MinimumSize = new System.Drawing.Size(50, 50);
+            this.btnsoftdrink.Name = "btnsoftdrink";
+            this.btnsoftdrink.Size = new System.Drawing.Size(100, 100);
+            this.btnsoftdrink.TabIndex = 10;
+            this.btnsoftdrink.UseVisualStyleBackColor = false;
+            this.btnsoftdrink.Click += new System.EventHandler(this.btnsoftdrink_Click);
+            // 
+            // btnshakes
+            // 
+            this.btnshakes.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnshakes.BackColor = System.Drawing.Color.Transparent;
+            this.btnshakes.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnshakes.BackgroundImage")));
+            this.btnshakes.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnshakes.FlatAppearance.BorderSize = 0;
+            this.btnshakes.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnshakes.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnshakes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnshakes.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnshakes.ForeColor = System.Drawing.Color.Transparent;
+            this.btnshakes.Location = new System.Drawing.Point(10, 265);
+            this.btnshakes.MaximumSize = new System.Drawing.Size(100, 100);
+            this.btnshakes.MinimumSize = new System.Drawing.Size(50, 50);
+            this.btnshakes.Name = "btnshakes";
+            this.btnshakes.Size = new System.Drawing.Size(100, 100);
+            this.btnshakes.TabIndex = 11;
+            this.btnshakes.UseVisualStyleBackColor = false;
+            this.btnshakes.Click += new System.EventHandler(this.btnshakes_Click);
+            // 
+            // btncofee
+            // 
+            this.btncofee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btncofee.BackColor = System.Drawing.Color.Transparent;
+            this.btncofee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btncofee.BackgroundImage")));
+            this.btncofee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btncofee.FlatAppearance.BorderSize = 0;
+            this.btncofee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btncofee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btncofee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btncofee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btncofee.ForeColor = System.Drawing.Color.Transparent;
+            this.btncofee.Location = new System.Drawing.Point(10, 144);
+            this.btncofee.MaximumSize = new System.Drawing.Size(100, 100);
+            this.btncofee.MinimumSize = new System.Drawing.Size(50, 50);
+            this.btncofee.Name = "btncofee";
+            this.btncofee.Size = new System.Drawing.Size(100, 100);
+            this.btncofee.TabIndex = 12;
+            this.btncofee.UseVisualStyleBackColor = false;
+            this.btncofee.Click += new System.EventHandler(this.btncofee_Click);
+            // 
+            // btntea
+            // 
+            this.btntea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btntea.BackColor = System.Drawing.Color.Transparent;
+            this.btntea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btntea.BackgroundImage")));
+            this.btntea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btntea.FlatAppearance.BorderSize = 0;
+            this.btntea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btntea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btntea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btntea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btntea.ForeColor = System.Drawing.Color.Transparent;
+            this.btntea.Location = new System.Drawing.Point(10, 23);
+            this.btntea.MaximumSize = new System.Drawing.Size(100, 100);
+            this.btntea.MinimumSize = new System.Drawing.Size(50, 50);
+            this.btntea.Name = "btntea";
+            this.btntea.Size = new System.Drawing.Size(100, 100);
+            this.btntea.TabIndex = 13;
+            this.btntea.UseVisualStyleBackColor = false;
+            this.btntea.Click += new System.EventHandler(this.btntea_Click);
+            // 
+            // gbFood
+            // 
+            this.gbFood.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbFood.Controls.Add(this.button52);
+            this.gbFood.Controls.Add(this.button53);
+            this.gbFood.Controls.Add(this.button54);
+            this.gbFood.Controls.Add(this.button55);
+            this.gbFood.Location = new System.Drawing.Point(16, 58);
+            this.gbFood.MaximumSize = new System.Drawing.Size(120, 500);
+            this.gbFood.Name = "gbFood";
+            this.gbFood.Size = new System.Drawing.Size(120, 500);
+            this.gbFood.TabIndex = 14;
+            this.gbFood.TabStop = false;
+            this.gbFood.Text = "FOOD";
+            // 
+            // button52
+            // 
+            this.button52.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button52.BackColor = System.Drawing.Color.Transparent;
+            this.button52.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button52.BackgroundImage")));
+            this.button52.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button52.FlatAppearance.BorderSize = 0;
+            this.button52.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button52.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button52.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button52.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button52.ForeColor = System.Drawing.Color.Transparent;
+            this.button52.Location = new System.Drawing.Point(10, 384);
+            this.button52.MaximumSize = new System.Drawing.Size(100, 100);
+            this.button52.MinimumSize = new System.Drawing.Size(50, 50);
+            this.button52.Name = "button52";
+            this.button52.Size = new System.Drawing.Size(100, 100);
+            this.button52.TabIndex = 10;
+            this.button52.Text = "hot dogs";
+            this.button52.UseVisualStyleBackColor = false;
+            this.button52.Click += new System.EventHandler(this.button52_Click);
+            // 
+            // button53
+            // 
+            this.button53.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button53.BackColor = System.Drawing.Color.Transparent;
+            this.button53.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button53.BackgroundImage")));
+            this.button53.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button53.FlatAppearance.BorderSize = 0;
+            this.button53.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button53.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button53.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button53.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button53.ForeColor = System.Drawing.Color.Transparent;
+            this.button53.Location = new System.Drawing.Point(10, 265);
+            this.button53.MaximumSize = new System.Drawing.Size(100, 100);
+            this.button53.MinimumSize = new System.Drawing.Size(50, 50);
+            this.button53.Name = "button53";
+            this.button53.Size = new System.Drawing.Size(100, 100);
+            this.button53.TabIndex = 11;
+            this.button53.Text = "burgers";
+            this.button53.UseVisualStyleBackColor = false;
+            this.button53.Click += new System.EventHandler(this.button53_Click);
+            // 
+            // button54
+            // 
+            this.button54.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button54.BackColor = System.Drawing.Color.Transparent;
+            this.button54.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button54.BackgroundImage")));
+            this.button54.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button54.FlatAppearance.BorderSize = 0;
+            this.button54.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button54.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button54.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button54.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button54.ForeColor = System.Drawing.Color.Transparent;
+            this.button54.Location = new System.Drawing.Point(10, 146);
+            this.button54.MaximumSize = new System.Drawing.Size(100, 100);
+            this.button54.MinimumSize = new System.Drawing.Size(50, 50);
+            this.button54.Name = "button54";
+            this.button54.Size = new System.Drawing.Size(100, 100);
+            this.button54.TabIndex = 12;
+            this.button54.Text = "soups";
+            this.button54.UseVisualStyleBackColor = false;
+            this.button54.Click += new System.EventHandler(this.button54_Click);
+            // 
+            // button55
+            // 
+            this.button55.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button55.BackColor = System.Drawing.Color.Transparent;
+            this.button55.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button55.BackgroundImage")));
+            this.button55.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button55.FlatAppearance.BorderSize = 0;
+            this.button55.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button55.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button55.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button55.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button55.ForeColor = System.Drawing.Color.Transparent;
+            this.button55.Location = new System.Drawing.Point(10, 27);
+            this.button55.MaximumSize = new System.Drawing.Size(100, 100);
+            this.button55.MinimumSize = new System.Drawing.Size(50, 50);
+            this.button55.Name = "button55";
+            this.button55.Size = new System.Drawing.Size(100, 100);
+            this.button55.TabIndex = 13;
+            this.button55.Text = "sandwich";
+            this.button55.UseVisualStyleBackColor = false;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
+            // 
+            // gbTea
+            // 
+            this.gbTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbTea.Controls.Add(this.ptea);
+            this.gbTea.Location = new System.Drawing.Point(152, 58);
+            this.gbTea.Name = "gbTea";
+            this.gbTea.Size = new System.Drawing.Size(711, 505);
+            this.gbTea.TabIndex = 5;
+            this.gbTea.TabStop = false;
+            this.gbTea.Text = "TEA";
+            // 
+            // ptea
+            // 
+            this.ptea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.ptea.AutoScroll = true;
+            this.ptea.AutoScrollMinSize = new System.Drawing.Size(770, 700);
+            this.ptea.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.ptea.Controls.Add(this.label2);
+            this.ptea.Controls.Add(this.lblRTea);
+            this.ptea.Controls.Add(this.btnRTea);
+            this.ptea.Controls.Add(this.lblCITeaP);
+            this.ptea.Controls.Add(this.lblGTeaP);
+            this.ptea.Controls.Add(this.lblLITeaP);
+            this.ptea.Controls.Add(this.lblSITeaP);
+            this.ptea.Controls.Add(this.lblPUTeaP);
+            this.ptea.Controls.Add(this.lblGTea);
+            this.ptea.Controls.Add(this.lblSITea);
+            this.ptea.Controls.Add(this.lblPUTea);
+            this.ptea.Controls.Add(this.lblCITea);
+            this.ptea.Controls.Add(this.lblLITea);
+            this.ptea.Controls.Add(this.btnCLTea);
+            this.ptea.Controls.Add(this.btnSITea);
+            this.ptea.Controls.Add(this.btnPITea);
+            this.ptea.Controls.Add(this.btnLITea);
+            this.ptea.Controls.Add(this.btnGTea);
+            this.ptea.Location = new System.Drawing.Point(8, 14);
+            this.ptea.Name = "ptea";
+            this.ptea.Size = new System.Drawing.Size(697, 480);
+            this.ptea.TabIndex = 10;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(515, 529);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(66, 25);
+            this.label2.TabIndex = 32;
+            this.label2.Text = "Price";
+            // 
+            // lblRTea
+            // 
+            this.lblRTea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblRTea.AutoSize = true;
+            this.lblRTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRTea.Location = new System.Drawing.Point(364, 625);
+            this.lblRTea.Name = "lblRTea";
+            this.lblRTea.Size = new System.Drawing.Size(99, 20);
+            this.lblRTea.TabIndex = 31;
+            this.lblRTea.Text = "Rooibos Tea";
+            // 
+            // btnRTea
+            // 
+            this.btnRTea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnRTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnRTea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnRTea.BackColor = System.Drawing.Color.Transparent;
+            this.btnRTea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRTea.BackgroundImage")));
+            this.btnRTea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnRTea.FlatAppearance.BorderSize = 0;
+            this.btnRTea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnRTea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnRTea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRTea.ForeColor = System.Drawing.Color.Transparent;
+            this.btnRTea.Location = new System.Drawing.Point(346, 482);
+            this.btnRTea.Margin = new System.Windows.Forms.Padding(10);
+            this.btnRTea.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnRTea.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnRTea.Name = "btnRTea";
+            this.btnRTea.Size = new System.Drawing.Size(134, 134);
+            this.btnRTea.TabIndex = 30;
+            this.btnRTea.Text = "Rooibos Tea";
+            this.btnRTea.UseVisualStyleBackColor = false;
+            this.btnRTea.Click += new System.EventHandler(this.btnLITea_Click);
+            // 
+            // lblCITeaP
+            // 
+            this.lblCITeaP.AutoSize = true;
+            this.lblCITeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCITeaP.Location = new System.Drawing.Point(533, 88);
+            this.lblCITeaP.Name = "lblCITeaP";
+            this.lblCITeaP.Size = new System.Drawing.Size(66, 25);
+            this.lblCITeaP.TabIndex = 29;
+            this.lblCITeaP.Text = "Price";
+            // 
+            // lblGTeaP
+            // 
+            this.lblGTeaP.AutoSize = true;
+            this.lblGTeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGTeaP.Location = new System.Drawing.Point(533, 305);
+            this.lblGTeaP.Name = "lblGTeaP";
+            this.lblGTeaP.Size = new System.Drawing.Size(66, 25);
+            this.lblGTeaP.TabIndex = 27;
+            this.lblGTeaP.Text = "Price";
+            this.lblGTeaP.Click += new System.EventHandler(this.label51_Click);
+            // 
+            // lblLITeaP
+            // 
+            this.lblLITeaP.AutoSize = true;
+            this.lblLITeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLITeaP.Location = new System.Drawing.Point(207, 84);
+            this.lblLITeaP.Name = "lblLITeaP";
+            this.lblLITeaP.Size = new System.Drawing.Size(66, 25);
+            this.lblLITeaP.TabIndex = 26;
+            this.lblLITeaP.Text = "Price";
+            // 
+            // lblSITeaP
+            // 
+            this.lblSITeaP.AutoSize = true;
+            this.lblSITeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSITeaP.Location = new System.Drawing.Point(213, 526);
+            this.lblSITeaP.Name = "lblSITeaP";
+            this.lblSITeaP.Size = new System.Drawing.Size(66, 25);
+            this.lblSITeaP.TabIndex = 24;
+            this.lblSITeaP.Text = "Price";
+            // 
+            // lblPUTeaP
+            // 
+            this.lblPUTeaP.AutoSize = true;
+            this.lblPUTeaP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPUTeaP.Location = new System.Drawing.Point(207, 301);
+            this.lblPUTeaP.Name = "lblPUTeaP";
+            this.lblPUTeaP.Size = new System.Drawing.Size(66, 25);
+            this.lblPUTeaP.TabIndex = 24;
+            this.lblPUTeaP.Text = "Price";
+            // 
+            // lblGTea
+            // 
+            this.lblGTea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblGTea.AutoSize = true;
+            this.lblGTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGTea.Location = new System.Drawing.Point(371, 399);
+            this.lblGTea.Name = "lblGTea";
+            this.lblGTea.Size = new System.Drawing.Size(85, 20);
+            this.lblGTea.TabIndex = 23;
+            this.lblGTea.Text = "Green Tea";
+            // 
+            // lblSITea
+            // 
+            this.lblSITea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblSITea.AutoSize = true;
+            this.lblSITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSITea.Location = new System.Drawing.Point(62, 622);
+            this.lblSITea.Name = "lblSITea";
+            this.lblSITea.Size = new System.Drawing.Size(91, 20);
+            this.lblSITea.TabIndex = 21;
+            this.lblSITea.Text = "Oolong Tea";
+            // 
+            // lblPUTea
+            // 
+            this.lblPUTea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblPUTea.AutoSize = true;
+            this.lblPUTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPUTea.Location = new System.Drawing.Point(64, 398);
+            this.lblPUTea.Name = "lblPUTea";
+            this.lblPUTea.Size = new System.Drawing.Size(87, 20);
+            this.lblPUTea.TabIndex = 21;
+            this.lblPUTea.Text = "Herbal Tea";
+            // 
+            // lblCITea
+            // 
+            this.lblCITea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblCITea.AutoSize = true;
+            this.lblCITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCITea.Location = new System.Drawing.Point(371, 182);
+            this.lblCITea.Name = "lblCITea";
+            this.lblCITea.Size = new System.Drawing.Size(81, 20);
+            this.lblCITea.TabIndex = 19;
+            this.lblCITea.Text = "White Tea";
+            // 
+            // lblLITea
+            // 
+            this.lblLITea.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblLITea.AutoSize = true;
+            this.lblLITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLITea.Location = new System.Drawing.Point(72, 182);
+            this.lblLITea.Name = "lblLITea";
+            this.lblLITea.Size = new System.Drawing.Size(79, 20);
+            this.lblLITea.TabIndex = 18;
+            this.lblLITea.Text = "Black Tea";
+            this.lblLITea.Click += new System.EventHandler(this.label60_Click);
+            // 
+            // btnCLTea
+            // 
+            this.btnCLTea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCLTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCLTea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCLTea.BackColor = System.Drawing.Color.Transparent;
+            this.btnCLTea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCLTea.BackgroundImage")));
+            this.btnCLTea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCLTea.FlatAppearance.BorderSize = 0;
+            this.btnCLTea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCLTea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCLTea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCLTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCLTea.ForeColor = System.Drawing.Color.Transparent;
+            this.btnCLTea.Location = new System.Drawing.Point(346, 37);
+            this.btnCLTea.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCLTea.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnCLTea.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnCLTea.Name = "btnCLTea";
+            this.btnCLTea.Size = new System.Drawing.Size(134, 134);
+            this.btnCLTea.TabIndex = 16;
+            this.btnCLTea.Text = "White Tea";
+            this.btnCLTea.UseVisualStyleBackColor = false;
+            this.btnCLTea.Click += new System.EventHandler(this.btnLITea_Click);
+            // 
+            // btnSITea
+            // 
+            this.btnSITea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnSITea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSITea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnSITea.BackColor = System.Drawing.Color.Transparent;
+            this.btnSITea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSITea.BackgroundImage")));
+            this.btnSITea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnSITea.FlatAppearance.BorderSize = 0;
+            this.btnSITea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnSITea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnSITea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSITea.ForeColor = System.Drawing.Color.Transparent;
+            this.btnSITea.Location = new System.Drawing.Point(44, 482);
+            this.btnSITea.Margin = new System.Windows.Forms.Padding(10);
+            this.btnSITea.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnSITea.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnSITea.Name = "btnSITea";
+            this.btnSITea.Size = new System.Drawing.Size(134, 134);
+            this.btnSITea.TabIndex = 14;
+            this.btnSITea.Text = "Oolong Tea";
+            this.btnSITea.UseVisualStyleBackColor = false;
+            this.btnSITea.Click += new System.EventHandler(this.btnLITea_Click);
+            // 
+            // btnPITea
+            // 
+            this.btnPITea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnPITea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnPITea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnPITea.BackColor = System.Drawing.Color.Transparent;
+            this.btnPITea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnPITea.BackgroundImage")));
+            this.btnPITea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnPITea.FlatAppearance.BorderSize = 0;
+            this.btnPITea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnPITea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnPITea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPITea.ForeColor = System.Drawing.Color.Transparent;
+            this.btnPITea.Location = new System.Drawing.Point(44, 256);
+            this.btnPITea.Margin = new System.Windows.Forms.Padding(10);
+            this.btnPITea.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnPITea.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnPITea.Name = "btnPITea";
+            this.btnPITea.Size = new System.Drawing.Size(134, 134);
+            this.btnPITea.TabIndex = 14;
+            this.btnPITea.Text = "Herbal Tea";
+            this.btnPITea.UseVisualStyleBackColor = false;
+            this.btnPITea.Click += new System.EventHandler(this.btnLITea_Click);
+            // 
+            // btnLITea
+            // 
+            this.btnLITea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnLITea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnLITea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnLITea.BackColor = System.Drawing.Color.Transparent;
+            this.btnLITea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnLITea.BackgroundImage")));
+            this.btnLITea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnLITea.FlatAppearance.BorderSize = 0;
+            this.btnLITea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnLITea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnLITea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLITea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLITea.ForeColor = System.Drawing.Color.Transparent;
+            this.btnLITea.Location = new System.Drawing.Point(44, 34);
+            this.btnLITea.Margin = new System.Windows.Forms.Padding(10);
+            this.btnLITea.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnLITea.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnLITea.Name = "btnLITea";
+            this.btnLITea.Size = new System.Drawing.Size(134, 134);
+            this.btnLITea.TabIndex = 17;
+            this.btnLITea.Text = "Black Tea";
+            this.btnLITea.UseVisualStyleBackColor = false;
+            this.btnLITea.Click += new System.EventHandler(this.btnLITea_Click);
+            // 
+            // btnGTea
+            // 
+            this.btnGTea.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnGTea.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnGTea.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnGTea.BackColor = System.Drawing.Color.Transparent;
+            this.btnGTea.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnGTea.BackgroundImage")));
+            this.btnGTea.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnGTea.FlatAppearance.BorderSize = 0;
+            this.btnGTea.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnGTea.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnGTea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGTea.ForeColor = System.Drawing.Color.Transparent;
+            this.btnGTea.Location = new System.Drawing.Point(346, 256);
+            this.btnGTea.Margin = new System.Windows.Forms.Padding(10);
+            this.btnGTea.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnGTea.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnGTea.Name = "btnGTea";
+            this.btnGTea.Size = new System.Drawing.Size(134, 134);
+            this.btnGTea.TabIndex = 15;
+            this.btnGTea.Text = "Green Tea";
+            this.btnGTea.UseVisualStyleBackColor = false;
+            this.btnGTea.Click += new System.EventHandler(this.btnLITea_Click);
+            // 
+            // gbCofee
+            // 
+            this.gbCofee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbCofee.Controls.Add(this.panel1);
+            this.gbCofee.Location = new System.Drawing.Point(152, 58);
+            this.gbCofee.Name = "gbCofee";
+            this.gbCofee.Size = new System.Drawing.Size(712, 505);
+            this.gbCofee.TabIndex = 11;
+            this.gbCofee.TabStop = false;
+            this.gbCofee.Text = "COFFEE";
+            // 
+            // panel1
+            // 
+            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel1.AutoScroll = true;
+            this.panel1.AutoScrollMinSize = new System.Drawing.Size(770, 700);
+            this.panel1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.panel1.Controls.Add(this.lblACoffeP);
+            this.panel1.Controls.Add(this.lblMLCoffeeP);
+            this.panel1.Controls.Add(this.lblCCoffeeP);
+            this.panel1.Controls.Add(this.lblCBLCoffeeP);
+            this.panel1.Controls.Add(this.lblCaLCoffeeP);
+            this.panel1.Controls.Add(this.lblCLCoffeP);
+            this.panel1.Controls.Add(this.lblMLCoffee);
+            this.panel1.Controls.Add(this.lblACoffe);
+            this.panel1.Controls.Add(this.lblCBLCoffee);
+            this.panel1.Controls.Add(this.lblCaLCoffee);
+            this.panel1.Controls.Add(this.lblCLCoffe);
+            this.panel1.Controls.Add(this.lblCCoffee);
+            this.panel1.Controls.Add(this.btnACoffe);
+            this.panel1.Controls.Add(this.btnCBLCoffee);
+            this.panel1.Controls.Add(this.btnCaLCoffee);
+            this.panel1.Controls.Add(this.btnCLCoffe);
+            this.panel1.Controls.Add(this.btnCCoffee);
+            this.panel1.Controls.Add(this.btnMLCoffee);
+            this.panel1.Location = new System.Drawing.Point(6, 17);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(700, 480);
+            this.panel1.TabIndex = 10;
+            // 
+            // lblACoffeP
+            // 
+            this.lblACoffeP.AutoSize = true;
+            this.lblACoffeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblACoffeP.Location = new System.Drawing.Point(535, 80);
+            this.lblACoffeP.Name = "lblACoffeP";
+            this.lblACoffeP.Size = new System.Drawing.Size(66, 25);
+            this.lblACoffeP.TabIndex = 39;
+            this.lblACoffeP.Text = "Price";
+            // 
+            // lblMLCoffeeP
+            // 
+            this.lblMLCoffeeP.AutoSize = true;
+            this.lblMLCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMLCoffeeP.Location = new System.Drawing.Point(535, 328);
+            this.lblMLCoffeeP.Name = "lblMLCoffeeP";
+            this.lblMLCoffeeP.Size = new System.Drawing.Size(66, 25);
+            this.lblMLCoffeeP.TabIndex = 38;
+            this.lblMLCoffeeP.Text = "Price";
+            // 
+            // lblCCoffeeP
+            // 
+            this.lblCCoffeeP.AutoSize = true;
+            this.lblCCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCCoffeeP.Location = new System.Drawing.Point(209, 76);
+            this.lblCCoffeeP.Name = "lblCCoffeeP";
+            this.lblCCoffeeP.Size = new System.Drawing.Size(66, 25);
+            this.lblCCoffeeP.TabIndex = 37;
+            this.lblCCoffeeP.Text = "Price";
+            // 
+            // lblCBLCoffeeP
+            // 
+            this.lblCBLCoffeeP.AutoSize = true;
+            this.lblCBLCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCBLCoffeeP.Location = new System.Drawing.Point(529, 523);
+            this.lblCBLCoffeeP.Name = "lblCBLCoffeeP";
+            this.lblCBLCoffeeP.Size = new System.Drawing.Size(66, 25);
+            this.lblCBLCoffeeP.TabIndex = 36;
+            this.lblCBLCoffeeP.Text = "Price";
+            // 
+            // lblCaLCoffeeP
+            // 
+            this.lblCaLCoffeeP.AutoSize = true;
+            this.lblCaLCoffeeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCaLCoffeeP.Location = new System.Drawing.Point(209, 525);
+            this.lblCaLCoffeeP.Name = "lblCaLCoffeeP";
+            this.lblCaLCoffeeP.Size = new System.Drawing.Size(66, 25);
+            this.lblCaLCoffeeP.TabIndex = 36;
+            this.lblCaLCoffeeP.Text = "Price";
+            // 
+            // lblCLCoffeP
+            // 
+            this.lblCLCoffeP.AutoSize = true;
+            this.lblCLCoffeP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCLCoffeP.Location = new System.Drawing.Point(209, 324);
+            this.lblCLCoffeP.Name = "lblCLCoffeP";
+            this.lblCLCoffeP.Size = new System.Drawing.Size(66, 25);
+            this.lblCLCoffeP.TabIndex = 36;
+            this.lblCLCoffeP.Text = "Price";
+            // 
+            // lblMLCoffee
+            // 
+            this.lblMLCoffee.AutoSize = true;
+            this.lblMLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMLCoffee.Location = new System.Drawing.Point(376, 420);
+            this.lblMLCoffee.Name = "lblMLCoffee";
+            this.lblMLCoffee.Size = new System.Drawing.Size(87, 20);
+            this.lblMLCoffee.TabIndex = 35;
+            this.lblMLCoffee.Text = "Iced Cofee";
+            // 
+            // lblACoffe
+            // 
+            this.lblACoffe.AutoSize = true;
+            this.lblACoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblACoffe.Location = new System.Drawing.Point(377, 168);
+            this.lblACoffe.Name = "lblACoffe";
+            this.lblACoffe.Size = new System.Drawing.Size(85, 20);
+            this.lblACoffe.TabIndex = 35;
+            this.lblACoffe.Text = "Americano";
+            // 
+            // lblCBLCoffee
+            // 
+            this.lblCBLCoffee.AutoSize = true;
+            this.lblCBLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCBLCoffee.Location = new System.Drawing.Point(381, 620);
+            this.lblCBLCoffee.Name = "lblCBLCoffee";
+            this.lblCBLCoffee.Size = new System.Drawing.Size(76, 20);
+            this.lblCBLCoffee.TabIndex = 34;
+            this.lblCBLCoffee.Text = "Espresso";
+            // 
+            // lblCaLCoffee
+            // 
+            this.lblCaLCoffee.AutoSize = true;
+            this.lblCaLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCaLCoffee.Location = new System.Drawing.Point(62, 624);
+            this.lblCaLCoffee.Name = "lblCaLCoffee";
+            this.lblCaLCoffee.Size = new System.Drawing.Size(81, 20);
+            this.lblCaLCoffee.TabIndex = 34;
+            this.lblCaLCoffee.Text = "Flat White";
+            // 
+            // lblCLCoffe
+            // 
+            this.lblCLCoffe.AutoSize = true;
+            this.lblCLCoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCLCoffe.Location = new System.Drawing.Point(60, 420);
+            this.lblCLCoffe.Name = "lblCLCoffe";
+            this.lblCLCoffe.Size = new System.Drawing.Size(84, 20);
+            this.lblCLCoffe.TabIndex = 34;
+            this.lblCLCoffe.Text = "Cafe Latte";
+            // 
+            // lblCCoffee
+            // 
+            this.lblCCoffee.AutoSize = true;
+            this.lblCCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCCoffee.Location = new System.Drawing.Point(60, 168);
+            this.lblCCoffee.Name = "lblCCoffee";
+            this.lblCCoffee.Size = new System.Drawing.Size(85, 20);
+            this.lblCCoffee.TabIndex = 34;
+            this.lblCCoffee.Text = "Cappucino";
+            // 
+            // btnACoffe
+            // 
+            this.btnACoffe.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnACoffe.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnACoffe.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnACoffe.BackColor = System.Drawing.Color.Transparent;
+            this.btnACoffe.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnACoffe.BackgroundImage")));
+            this.btnACoffe.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnACoffe.FlatAppearance.BorderSize = 0;
+            this.btnACoffe.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnACoffe.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnACoffe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnACoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnACoffe.ForeColor = System.Drawing.Color.Transparent;
+            this.btnACoffe.Location = new System.Drawing.Point(352, 29);
+            this.btnACoffe.Margin = new System.Windows.Forms.Padding(10);
+            this.btnACoffe.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnACoffe.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnACoffe.Name = "btnACoffe";
+            this.btnACoffe.Size = new System.Drawing.Size(134, 134);
+            this.btnACoffe.TabIndex = 32;
+            this.btnACoffe.Text = "Americano";
+            this.btnACoffe.UseVisualStyleBackColor = false;
+            this.btnACoffe.Click += new System.EventHandler(this.btnCCoffee_Click);
+            // 
+            // btnCBLCoffee
+            // 
+            this.btnCBLCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCBLCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCBLCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCBLCoffee.BackColor = System.Drawing.Color.Transparent;
+            this.btnCBLCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCBLCoffee.BackgroundImage")));
+            this.btnCBLCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCBLCoffee.FlatAppearance.BorderSize = 0;
+            this.btnCBLCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCBLCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCBLCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCBLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCBLCoffee.ForeColor = System.Drawing.Color.Maroon;
+            this.btnCBLCoffee.Location = new System.Drawing.Point(352, 478);
+            this.btnCBLCoffee.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCBLCoffee.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnCBLCoffee.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnCBLCoffee.Name = "btnCBLCoffee";
+            this.btnCBLCoffee.Size = new System.Drawing.Size(134, 134);
+            this.btnCBLCoffee.TabIndex = 30;
+            this.btnCBLCoffee.Text = "Espresso";
+            this.btnCBLCoffee.UseVisualStyleBackColor = false;
+            this.btnCBLCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
+            // 
+            // btnCaLCoffee
+            // 
+            this.btnCaLCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCaLCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCaLCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCaLCoffee.BackColor = System.Drawing.Color.Transparent;
+            this.btnCaLCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCaLCoffee.BackgroundImage")));
+            this.btnCaLCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCaLCoffee.FlatAppearance.BorderSize = 0;
+            this.btnCaLCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCaLCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCaLCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCaLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.1111F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCaLCoffee.ForeColor = System.Drawing.Color.Chocolate;
+            this.btnCaLCoffee.Location = new System.Drawing.Point(35, 480);
+            this.btnCaLCoffee.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCaLCoffee.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnCaLCoffee.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnCaLCoffee.Name = "btnCaLCoffee";
+            this.btnCaLCoffee.Size = new System.Drawing.Size(134, 134);
+            this.btnCaLCoffee.TabIndex = 30;
+            this.btnCaLCoffee.Text = "Flat White";
+            this.btnCaLCoffee.UseVisualStyleBackColor = false;
+            this.btnCaLCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
+            // 
+            // btnCLCoffe
+            // 
+            this.btnCLCoffe.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCLCoffe.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCLCoffe.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCLCoffe.BackColor = System.Drawing.Color.Transparent;
+            this.btnCLCoffe.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCLCoffe.BackgroundImage")));
+            this.btnCLCoffe.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCLCoffe.FlatAppearance.BorderSize = 0;
+            this.btnCLCoffe.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCLCoffe.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCLCoffe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCLCoffe.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCLCoffe.ForeColor = System.Drawing.Color.Transparent;
+            this.btnCLCoffe.Location = new System.Drawing.Point(35, 279);
+            this.btnCLCoffe.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCLCoffe.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnCLCoffe.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnCLCoffe.Name = "btnCLCoffe";
+            this.btnCLCoffe.Size = new System.Drawing.Size(134, 134);
+            this.btnCLCoffe.TabIndex = 30;
+            this.btnCLCoffe.Text = "Cafe Latte";
+            this.btnCLCoffe.UseVisualStyleBackColor = false;
+            this.btnCLCoffe.Click += new System.EventHandler(this.btnCCoffee_Click);
+            // 
+            // btnCCoffee
+            // 
+            this.btnCCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCCoffee.BackColor = System.Drawing.Color.Transparent;
+            this.btnCCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCCoffee.BackgroundImage")));
+            this.btnCCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCCoffee.FlatAppearance.BorderSize = 0;
+            this.btnCCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCCoffee.ForeColor = System.Drawing.Color.Transparent;
+            this.btnCCoffee.Location = new System.Drawing.Point(35, 29);
+            this.btnCCoffee.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCCoffee.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnCCoffee.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnCCoffee.Name = "btnCCoffee";
+            this.btnCCoffee.Size = new System.Drawing.Size(134, 134);
+            this.btnCCoffee.TabIndex = 33;
+            this.btnCCoffee.Text = "Cappucino";
+            this.btnCCoffee.UseVisualStyleBackColor = false;
+            this.btnCCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
+            // 
+            // btnMLCoffee
+            // 
+            this.btnMLCoffee.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnMLCoffee.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnMLCoffee.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnMLCoffee.BackColor = System.Drawing.Color.Transparent;
+            this.btnMLCoffee.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnMLCoffee.BackgroundImage")));
+            this.btnMLCoffee.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnMLCoffee.FlatAppearance.BorderSize = 0;
+            this.btnMLCoffee.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnMLCoffee.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnMLCoffee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnMLCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMLCoffee.ForeColor = System.Drawing.Color.Transparent;
+            this.btnMLCoffee.Location = new System.Drawing.Point(352, 279);
+            this.btnMLCoffee.Margin = new System.Windows.Forms.Padding(10);
+            this.btnMLCoffee.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnMLCoffee.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnMLCoffee.Name = "btnMLCoffee";
+            this.btnMLCoffee.Size = new System.Drawing.Size(134, 134);
+            this.btnMLCoffee.TabIndex = 31;
+            this.btnMLCoffee.Text = "Iced Cofee";
+            this.btnMLCoffee.UseVisualStyleBackColor = false;
+            this.btnMLCoffee.Click += new System.EventHandler(this.btnCCoffee_Click);
+            // 
+            // gbHotDog
+            // 
+            this.gbHotDog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbHotDog.Controls.Add(this.panel7);
+            this.gbHotDog.Location = new System.Drawing.Point(152, 58);
+            this.gbHotDog.Name = "gbHotDog";
+            this.gbHotDog.Size = new System.Drawing.Size(712, 505);
+            this.gbHotDog.TabIndex = 16;
+            this.gbHotDog.TabStop = false;
+            this.gbHotDog.Text = "HOT DOGS";
+            // 
+            // panel7
+            // 
+            this.panel7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel7.AutoScroll = true;
+            this.panel7.AutoScrollMargin = new System.Drawing.Size(0, 12);
+            this.panel7.AutoScrollMinSize = new System.Drawing.Size(400, 450);
+            this.panel7.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.panel7.Controls.Add(this.lblCHDogP);
+            this.panel7.Controls.Add(this.lblNSHDogP);
+            this.panel7.Controls.Add(this.lblCHDog);
+            this.panel7.Controls.Add(this.lblNSHDog);
+            this.panel7.Controls.Add(this.btnCHDog);
+            this.panel7.Controls.Add(this.btnNSHDog);
+            this.panel7.Location = new System.Drawing.Point(7, 14);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(697, 488);
+            this.panel7.TabIndex = 10;
+            // 
+            // lblCHDogP
+            // 
+            this.lblCHDogP.AutoSize = true;
+            this.lblCHDogP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCHDogP.Location = new System.Drawing.Point(250, 361);
+            this.lblCHDogP.Name = "lblCHDogP";
+            this.lblCHDogP.Size = new System.Drawing.Size(66, 25);
+            this.lblCHDogP.TabIndex = 40;
+            this.lblCHDogP.Text = "Price";
+            // 
+            // lblNSHDogP
+            // 
+            this.lblNSHDogP.AutoSize = true;
+            this.lblNSHDogP.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNSHDogP.Location = new System.Drawing.Point(250, 112);
+            this.lblNSHDogP.Name = "lblNSHDogP";
+            this.lblNSHDogP.Size = new System.Drawing.Size(66, 25);
+            this.lblNSHDogP.TabIndex = 40;
+            this.lblNSHDogP.Text = "Price";
+            // 
+            // lblCHDog
+            // 
+            this.lblCHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCHDog.Location = new System.Drawing.Point(252, 314);
+            this.lblCHDog.Name = "lblCHDog";
+            this.lblCHDog.Size = new System.Drawing.Size(168, 31);
+            this.lblCHDog.TabIndex = 10;
+            this.lblCHDog.Text = "Chili Chicken ";
+            // 
+            // lblNSHDog
+            // 
+            this.lblNSHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNSHDog.Location = new System.Drawing.Point(252, 78);
+            this.lblNSHDog.Name = "lblNSHDog";
+            this.lblNSHDog.Size = new System.Drawing.Size(168, 31);
+            this.lblNSHDog.TabIndex = 10;
+            this.lblNSHDog.Text = "Noir Special";
+            this.lblNSHDog.Click += new System.EventHandler(this.label19_Click);
+            // 
+            // btnCHDog
+            // 
+            this.btnCHDog.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCHDog.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCHDog.BackColor = System.Drawing.Color.Transparent;
+            this.btnCHDog.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCHDog.BackgroundImage")));
+            this.btnCHDog.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCHDog.FlatAppearance.BorderSize = 0;
+            this.btnCHDog.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCHDog.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCHDog.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCHDog.Location = new System.Drawing.Point(35, 271);
+            this.btnCHDog.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCHDog.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnCHDog.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnCHDog.Name = "btnCHDog";
+            this.btnCHDog.Size = new System.Drawing.Size(160, 160);
+            this.btnCHDog.TabIndex = 5;
+            this.btnCHDog.Text = "Chili Chicken ";
+            this.btnCHDog.UseVisualStyleBackColor = false;
+            this.btnCHDog.Click += new System.EventHandler(this.btnNSHDog_Click);
+            // 
+            // btnNSHDog
+            // 
+            this.btnNSHDog.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnNSHDog.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnNSHDog.BackColor = System.Drawing.Color.Transparent;
+            this.btnNSHDog.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnNSHDog.BackgroundImage")));
+            this.btnNSHDog.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnNSHDog.FlatAppearance.BorderSize = 0;
+            this.btnNSHDog.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnNSHDog.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnNSHDog.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnNSHDog.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNSHDog.Location = new System.Drawing.Point(35, 35);
+            this.btnNSHDog.Margin = new System.Windows.Forms.Padding(10);
+            this.btnNSHDog.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnNSHDog.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnNSHDog.Name = "btnNSHDog";
+            this.btnNSHDog.Size = new System.Drawing.Size(160, 160);
+            this.btnNSHDog.TabIndex = 5;
+            this.btnNSHDog.Text = "Noir Special";
+            this.btnNSHDog.UseVisualStyleBackColor = false;
+            this.btnNSHDog.Click += new System.EventHandler(this.btnNSHDog_Click);
+            // 
+            // gbtopping
+            // 
+            this.gbtopping.BackColor = System.Drawing.SystemColors.Highlight;
+            this.gbtopping.Controls.Add(this.lblCTopping);
+            this.gbtopping.Controls.Add(this.lblSICTopping);
+            this.gbtopping.Controls.Add(this.label7);
+            this.gbtopping.Controls.Add(this.lblSICToppingP);
+            this.gbtopping.Controls.Add(this.lblWCToppingP);
+            this.gbtopping.Controls.Add(this.lblWCTopping);
+            this.gbtopping.Controls.Add(this.btnCTopping);
+            this.gbtopping.Controls.Add(this.btnSICTopping);
+            this.gbtopping.Controls.Add(this.btnNON);
+            this.gbtopping.Controls.Add(this.btnWCTopping);
+            this.gbtopping.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.gbtopping.Location = new System.Drawing.Point(249, 40);
+            this.gbtopping.Name = "gbtopping";
+            this.gbtopping.Size = new System.Drawing.Size(606, 494);
+            this.gbtopping.TabIndex = 20;
+            this.gbtopping.TabStop = false;
+            this.gbtopping.Text = "TOPPING";
+            // 
+            // lblCTopping
+            // 
+            this.lblCTopping.AutoSize = true;
+            this.lblCTopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCTopping.Location = new System.Drawing.Point(178, 395);
+            this.lblCTopping.Name = "lblCTopping";
+            this.lblCTopping.Size = new System.Drawing.Size(109, 25);
+            this.lblCTopping.TabIndex = 6;
+            this.lblCTopping.Text = "Chocolate";
+            // 
+            // lblSICTopping
+            // 
+            this.lblSICTopping.AutoSize = true;
+            this.lblSICTopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSICTopping.Location = new System.Drawing.Point(178, 240);
+            this.lblSICTopping.Name = "lblSICTopping";
+            this.lblSICTopping.Size = new System.Drawing.Size(204, 25);
+            this.lblSICTopping.TabIndex = 6;
+            this.lblSICTopping.Text = "Scoop Of Ice Cream";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(178, 439);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(81, 31);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "Price";
+            // 
+            // lblSICToppingP
+            // 
+            this.lblSICToppingP.AutoSize = true;
+            this.lblSICToppingP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSICToppingP.Location = new System.Drawing.Point(178, 283);
+            this.lblSICToppingP.Name = "lblSICToppingP";
+            this.lblSICToppingP.Size = new System.Drawing.Size(81, 31);
+            this.lblSICToppingP.TabIndex = 6;
+            this.lblSICToppingP.Text = "Price";
+            // 
+            // lblWCToppingP
+            // 
+            this.lblWCToppingP.AutoSize = true;
+            this.lblWCToppingP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblWCToppingP.Location = new System.Drawing.Point(178, 94);
+            this.lblWCToppingP.Name = "lblWCToppingP";
+            this.lblWCToppingP.Size = new System.Drawing.Size(81, 31);
+            this.lblWCToppingP.TabIndex = 6;
+            this.lblWCToppingP.Text = "Price";
+            // 
+            // lblWCTopping
+            // 
+            this.lblWCTopping.AutoSize = true;
+            this.lblWCTopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblWCTopping.Location = new System.Drawing.Point(178, 53);
+            this.lblWCTopping.Name = "lblWCTopping";
+            this.lblWCTopping.Size = new System.Drawing.Size(166, 25);
+            this.lblWCTopping.TabIndex = 6;
+            this.lblWCTopping.Text = "Whipped Cream";
+            // 
+            // btnCTopping
+            // 
+            this.btnCTopping.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCTopping.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCTopping.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCTopping.Location = new System.Drawing.Point(23, 372);
+            this.btnCTopping.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCTopping.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnCTopping.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnCTopping.Name = "btnCTopping";
+            this.btnCTopping.Size = new System.Drawing.Size(142, 120);
+            this.btnCTopping.TabIndex = 5;
+            this.btnCTopping.Text = "Chocolate";
+            this.btnCTopping.UseVisualStyleBackColor = true;
+            this.btnCTopping.Click += new System.EventHandler(this.btnWCTopping_Click);
+            // 
+            // btnSICTopping
+            // 
+            this.btnSICTopping.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnSICTopping.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSICTopping.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnSICTopping.Location = new System.Drawing.Point(23, 205);
+            this.btnSICTopping.Margin = new System.Windows.Forms.Padding(10);
+            this.btnSICTopping.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnSICTopping.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnSICTopping.Name = "btnSICTopping";
+            this.btnSICTopping.Size = new System.Drawing.Size(139, 120);
+            this.btnSICTopping.TabIndex = 5;
+            this.btnSICTopping.Text = "Scoop Of Ice Cream";
+            this.btnSICTopping.UseVisualStyleBackColor = true;
+            this.btnSICTopping.Click += new System.EventHandler(this.btnWCTopping_Click);
+            // 
+            // btnNON
+            // 
+            this.btnNON.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnNON.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnNON.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnNON.Location = new System.Drawing.Point(390, 24);
+            this.btnNON.Margin = new System.Windows.Forms.Padding(10);
+            this.btnNON.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnNON.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnNON.Name = "btnNON";
+            this.btnNON.Size = new System.Drawing.Size(134, 120);
+            this.btnNON.TabIndex = 5;
+            this.btnNON.Text = "NON";
+            this.btnNON.UseVisualStyleBackColor = true;
+            this.btnNON.Click += new System.EventHandler(this.btnNON_Click);
+            // 
+            // btnWCTopping
+            // 
+            this.btnWCTopping.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnWCTopping.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnWCTopping.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnWCTopping.Location = new System.Drawing.Point(23, 25);
+            this.btnWCTopping.Margin = new System.Windows.Forms.Padding(10);
+            this.btnWCTopping.MaximumSize = new System.Drawing.Size(174, 160);
+            this.btnWCTopping.MinimumSize = new System.Drawing.Size(134, 120);
+            this.btnWCTopping.Name = "btnWCTopping";
+            this.btnWCTopping.Size = new System.Drawing.Size(134, 120);
+            this.btnWCTopping.TabIndex = 5;
+            this.btnWCTopping.Text = "Whipped Cream";
+            this.btnWCTopping.UseVisualStyleBackColor = true;
+            this.btnWCTopping.Click += new System.EventHandler(this.btnWCTopping_Click);
+            // 
+            // gbburger
+            // 
+            this.gbburger.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbburger.Controls.Add(this.panel6);
+            this.gbburger.Location = new System.Drawing.Point(152, 58);
+            this.gbburger.Name = "gbburger";
+            this.gbburger.Size = new System.Drawing.Size(712, 505);
+            this.gbburger.TabIndex = 15;
+            this.gbburger.TabStop = false;
+            this.gbburger.Text = "BURGERS";
+            // 
+            // panel6
+            // 
+            this.panel6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel6.AutoScroll = true;
+            this.panel6.AutoScrollMargin = new System.Drawing.Size(0, 12);
+            this.panel6.AutoScrollMinSize = new System.Drawing.Size(400, 950);
+            this.panel6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.panel6.Controls.Add(this.lblCCPCburgerP);
+            this.panel6.Controls.Add(this.lblBBurgerP);
+            this.panel6.Controls.Add(this.lblVburgerP);
+            this.panel6.Controls.Add(this.lblddcburgerP);
+            this.panel6.Controls.Add(this.lblBBurger);
+            this.panel6.Controls.Add(this.lblCCPCburger);
+            this.panel6.Controls.Add(this.lblVburger);
+            this.panel6.Controls.Add(this.lblddcburger);
+            this.panel6.Controls.Add(this.btnBBurger);
+            this.panel6.Controls.Add(this.btnCCPCburger);
+            this.panel6.Controls.Add(this.btnVburger);
+            this.panel6.Controls.Add(this.btnddcburger);
+            this.panel6.Location = new System.Drawing.Point(8, 14);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(698, 485);
+            this.panel6.TabIndex = 10;
+            this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
+            // 
+            // lblCCPCburgerP
+            // 
+            this.lblCCPCburgerP.AutoSize = true;
+            this.lblCCPCburgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCCPCburgerP.Location = new System.Drawing.Point(242, 607);
+            this.lblCCPCburgerP.Name = "lblCCPCburgerP";
+            this.lblCCPCburgerP.Size = new System.Drawing.Size(81, 31);
+            this.lblCCPCburgerP.TabIndex = 11;
+            this.lblCCPCburgerP.Text = "Price";
+            // 
+            // lblBBurgerP
+            // 
+            this.lblBBurgerP.AutoSize = true;
+            this.lblBBurgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBBurgerP.Location = new System.Drawing.Point(242, 856);
+            this.lblBBurgerP.Name = "lblBBurgerP";
+            this.lblBBurgerP.Size = new System.Drawing.Size(81, 31);
+            this.lblBBurgerP.TabIndex = 11;
+            this.lblBBurgerP.Text = "Price";
+            // 
+            // lblVburgerP
+            // 
+            this.lblVburgerP.AutoSize = true;
+            this.lblVburgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVburgerP.Location = new System.Drawing.Point(242, 370);
+            this.lblVburgerP.Name = "lblVburgerP";
+            this.lblVburgerP.Size = new System.Drawing.Size(81, 31);
+            this.lblVburgerP.TabIndex = 11;
+            this.lblVburgerP.Text = "Price";
+            this.lblVburgerP.Click += new System.EventHandler(this.label73_Click);
+            // 
+            // lblddcburgerP
+            // 
+            this.lblddcburgerP.AutoSize = true;
+            this.lblddcburgerP.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblddcburgerP.Location = new System.Drawing.Point(242, 119);
+            this.lblddcburgerP.Name = "lblddcburgerP";
+            this.lblddcburgerP.Size = new System.Drawing.Size(81, 31);
+            this.lblddcburgerP.TabIndex = 11;
+            this.lblddcburgerP.Text = "Price";
+            // 
+            // lblBBurger
+            // 
+            this.lblBBurger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBBurger.Location = new System.Drawing.Point(242, 805);
+            this.lblBBurger.Name = "lblBBurger";
+            this.lblBBurger.Size = new System.Drawing.Size(168, 31);
+            this.lblBBurger.TabIndex = 10;
+            this.lblBBurger.Text = "Beef Burger";
+            // 
+            // lblCCPCburger
+            // 
+            this.lblCCPCburger.AutoSize = true;
+            this.lblCCPCburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCCPCburger.Location = new System.Drawing.Point(242, 561);
+            this.lblCCPCburger.Name = "lblCCPCburger";
+            this.lblCCPCburger.Size = new System.Drawing.Size(321, 25);
+            this.lblCCPCburger.TabIndex = 10;
+            this.lblCCPCburger.Text = "Crispy Chiken Burger with Chips";
+            // 
+            // lblVburger
+            // 
+            this.lblVburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVburger.Location = new System.Drawing.Point(242, 316);
+            this.lblVburger.Name = "lblVburger";
+            this.lblVburger.Size = new System.Drawing.Size(168, 31);
+            this.lblVburger.TabIndex = 10;
+            this.lblVburger.Text = "Veggie";
+            // 
+            // lblddcburger
+            // 
+            this.lblddcburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblddcburger.Location = new System.Drawing.Point(242, 80);
+            this.lblddcburger.Name = "lblddcburger";
+            this.lblddcburger.Size = new System.Drawing.Size(270, 31);
+            this.lblddcburger.TabIndex = 10;
+            this.lblddcburger.Text = "Double Decker Chiken ";
+            // 
+            // btnBBurger
+            // 
+            this.btnBBurger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnBBurger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnBBurger.BackColor = System.Drawing.Color.Transparent;
+            this.btnBBurger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnBBurger.BackgroundImage")));
+            this.btnBBurger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnBBurger.FlatAppearance.BorderSize = 0;
+            this.btnBBurger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnBBurger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnBBurger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBBurger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBBurger.Location = new System.Drawing.Point(43, 762);
+            this.btnBBurger.Margin = new System.Windows.Forms.Padding(10);
+            this.btnBBurger.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnBBurger.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnBBurger.Name = "btnBBurger";
+            this.btnBBurger.Size = new System.Drawing.Size(160, 160);
+            this.btnBBurger.TabIndex = 5;
+            this.btnBBurger.Text = "Beef Burger";
+            this.btnBBurger.UseVisualStyleBackColor = false;
+            this.btnBBurger.Click += new System.EventHandler(this.btnCCPCburger_Click);
+            // 
+            // btnCCPCburger
+            // 
+            this.btnCCPCburger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnCCPCburger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCCPCburger.BackColor = System.Drawing.Color.Transparent;
+            this.btnCCPCburger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCCPCburger.BackgroundImage")));
+            this.btnCCPCburger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCCPCburger.FlatAppearance.BorderSize = 0;
+            this.btnCCPCburger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnCCPCburger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnCCPCburger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCCPCburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCCPCburger.Location = new System.Drawing.Point(43, 518);
+            this.btnCCPCburger.Margin = new System.Windows.Forms.Padding(10);
+            this.btnCCPCburger.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnCCPCburger.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnCCPCburger.Name = "btnCCPCburger";
+            this.btnCCPCburger.Size = new System.Drawing.Size(160, 160);
+            this.btnCCPCburger.TabIndex = 5;
+            this.btnCCPCburger.Text = "Crispy Chiken Burger with Chips";
+            this.btnCCPCburger.UseVisualStyleBackColor = false;
+            this.btnCCPCburger.Click += new System.EventHandler(this.btnCCPCburger_Click);
+            // 
+            // btnVburger
+            // 
+            this.btnVburger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnVburger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnVburger.BackColor = System.Drawing.Color.Transparent;
+            this.btnVburger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVburger.BackgroundImage")));
+            this.btnVburger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnVburger.FlatAppearance.BorderSize = 0;
+            this.btnVburger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnVburger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnVburger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVburger.Location = new System.Drawing.Point(43, 273);
+            this.btnVburger.Margin = new System.Windows.Forms.Padding(10);
+            this.btnVburger.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnVburger.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnVburger.Name = "btnVburger";
+            this.btnVburger.Size = new System.Drawing.Size(160, 160);
+            this.btnVburger.TabIndex = 5;
+            this.btnVburger.Text = "Veggie";
+            this.btnVburger.UseVisualStyleBackColor = false;
+            this.btnVburger.Click += new System.EventHandler(this.btnddcburger_Click);
+            // 
+            // btnddcburger
+            // 
+            this.btnddcburger.AccessibleRole = System.Windows.Forms.AccessibleRole.ButtonMenu;
+            this.btnddcburger.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnddcburger.BackColor = System.Drawing.Color.Transparent;
+            this.btnddcburger.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnddcburger.BackgroundImage")));
+            this.btnddcburger.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnddcburger.FlatAppearance.BorderSize = 0;
+            this.btnddcburger.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnddcburger.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnddcburger.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnddcburger.Font = new System.Drawing.Font("Microsoft Sans Serif", 0.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnddcburger.Location = new System.Drawing.Point(43, 37);
+            this.btnddcburger.Margin = new System.Windows.Forms.Padding(10);
+            this.btnddcburger.MaximumSize = new System.Drawing.Size(160, 160);
+            this.btnddcburger.MinimumSize = new System.Drawing.Size(134, 134);
+            this.btnddcburger.Name = "btnddcburger";
+            this.btnddcburger.Size = new System.Drawing.Size(160, 160);
+            this.btnddcburger.TabIndex = 5;
+            this.btnddcburger.Text = "Double Decker Chicken ";
+            this.btnddcburger.UseVisualStyleBackColor = false;
+            this.btnddcburger.Click += new System.EventHandler(this.btnddcburger_Click);
+            // 
             // button8
             // 
             this.button8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -3352,23 +3358,7 @@
             this.Load += new System.EventHandler(this.workarsForm_Load);
             this.pnlCashier.ResumeLayout(false);
             this.pnlCashier.PerformLayout();
-            this.gbTea.ResumeLayout(false);
-            this.ptea.ResumeLayout(false);
-            this.ptea.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bill)).EndInit();
-            this.gbdrink.ResumeLayout(false);
-            this.gbFood.ResumeLayout(false);
-            this.gbtopping.ResumeLayout(false);
-            this.gbtopping.PerformLayout();
-            this.gbCofee.ResumeLayout(false);
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            this.gbHotDog.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            this.gbburger.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
             this.gbsoup.ResumeLayout(false);
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
@@ -3385,6 +3375,22 @@
             this.gbshakes.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            this.gbdrink.ResumeLayout(false);
+            this.gbFood.ResumeLayout(false);
+            this.gbTea.ResumeLayout(false);
+            this.ptea.ResumeLayout(false);
+            this.ptea.PerformLayout();
+            this.gbCofee.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.gbHotDog.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.gbtopping.ResumeLayout(false);
+            this.gbtopping.PerformLayout();
+            this.gbburger.ResumeLayout(false);
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
             this.pnlInventory.ResumeLayout(false);
             this.gbCStorage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
