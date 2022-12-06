@@ -34,12 +34,12 @@ C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_syste
 D:\C#\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
 D:\C#\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
 D:\C#\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
-D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojAssemblyReference.cache
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.splashScreen.resources
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.cache
-D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.CoreCompileInputs.cache
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojAssemblyReference.cache
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.CoreCompileInputs.cache

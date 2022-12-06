@@ -516,5 +516,12 @@ namespace cafe_system
             pnlCashier.Show();
             pnlInventory.Hide();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            logForm obj = new logForm();
+            obj.Show();
+            this.Hide();
+        }
     }
 }

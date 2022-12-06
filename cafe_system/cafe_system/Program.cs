@@ -10,13 +10,16 @@ namespace cafe_system
     {
         /// <summary>
         /// The main entry point for the application.
+        public static string user;
+        public static string position;
         /// </summary>
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new workarsForm());
+            Application.Run(new logForm());
+
         }
     }
 }
