@@ -109,6 +109,12 @@
     <Folder Include="icons\Soup\" />
     <Folder Include="icons\Tea\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="icons\Topping\Group 111.png" />
+    <Content Include="icons\Topping\Group 112.png" />
+    <Content Include="icons\Topping\Group 114.png" />
+    <Content Include="icons\Topping\Group 115.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
