@@ -262,24 +262,36 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(3, 79);
+            this.button1.Location = new System.Drawing.Point(12, 103);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(93, 42);
+            this.button1.Size = new System.Drawing.Size(80, 80);
             this.button1.TabIndex = 0;
-            this.button1.Text = "cashier";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
+            this.button2.BackColor = System.Drawing.Color.Transparent;
+            this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
+            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(3, 165);
+            this.button2.Location = new System.Drawing.Point(12, 201);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(93, 43);
+            this.button2.Size = new System.Drawing.Size(80, 80);
             this.button2.TabIndex = 0;
-            this.button2.Text = "inventory";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // lblDate
@@ -310,6 +322,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pnlCashier.AutoSize = true;
             this.pnlCashier.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.pnlCashier.Controls.Add(this.gbtopping);
             this.pnlCashier.Controls.Add(this.label16);
             this.pnlCashier.Controls.Add(this.button70);
             this.pnlCashier.Controls.Add(this.button69);
@@ -336,7 +349,6 @@
             this.pnlCashier.Controls.Add(this.gbFood);
             this.pnlCashier.Controls.Add(this.gbCofee);
             this.pnlCashier.Controls.Add(this.gbHotDog);
-            this.pnlCashier.Controls.Add(this.gbtopping);
             this.pnlCashier.Controls.Add(this.gbburger);
             this.pnlCashier.Controls.Add(this.gbsoup);
             this.pnlCashier.Controls.Add(this.gbsoftdrink);
