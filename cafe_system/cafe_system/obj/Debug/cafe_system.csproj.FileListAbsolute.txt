@@ -41,5 +41,4 @@ D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.res
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.cache
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
 D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
-D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojAssemblyReference.cache
-D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.CoreCompileInputs.cache
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache

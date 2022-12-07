@@ -13,13 +13,13 @@ namespace cafe_system
     public partial class logForm : Form
     {
         SqlConnection con;
-        
-         
+
+
         public logForm()
         {
             InitializeComponent();
         }
-        
+
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -45,26 +45,53 @@ namespace cafe_system
         {
             try
             {
-                con = connectionManager.getconn();
-                con.Open();
-                SqlCommand cmd = new SqlCommand("select * from Vuser where Uname = @user and Vpass = @pass",con);
-                cmd.Parameters.AddWithValue("@user", userTbox.Text);
-                cmd.Parameters.AddWithValue("@pass", passTbox.Text);
-                SqlDataAdapter dat = new SqlDataAdapter(cmd);
-                DataTable dt = new DataTable();
-                dat.Fill(dt);
-
-                if (dt.Rows.Count > 0) {
-                    workarsForm  obj= new workarsForm();
-                    obj.Show();
-                    this.Hide();
+                if (userTbox.Text == "")
+                {
+                    MessageBox.Show("user name can't be empty");
                 }
-                
-                    
+                else if (passTbox.Text == "")
+                {
+                    MessageBox.Show("password can't be empty");
+                }
+                else
+                {
+                    con = connectionManager.getconn();
+                    con.Open();
+                    SqlCommand cmd = new SqlCommand("select * from Vuser where Uname = @user and Vpass = @pass", con);
+                    cmd.Parameters.AddWithValue("@user", userTbox.Text);
+                    cmd.Parameters.AddWithValue("@pass", passTbox.Text);
+                    SqlDataAdapter dat = new SqlDataAdapter(cmd);
+                    DataTable dt = new DataTable();
+                    dat.Fill(dt);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        SqlCommand cmd1 = new SqlCommand("select * from Vuser where Uname = @user", con);
+                        cmd1.Parameters.AddWithValue("@user", userTbox.Text);
+                        SqlDataReader reader;
+                        reader = cmd1.ExecuteReader();
+                        if (reader.Read())
+                        {
+                            Program.user = reader["Uname"].ToString();
+                            Program.position = reader["Vtype"].ToString();
+                            workarsForm obj = new workarsForm();
+                            obj.Show();
+                            this.Hide();
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("wrong user name or password");
+                    }
+
+                }
+
             }
-            catch (Exception ex){
-                MessageBox.Show(ex.ToString());            
+            catch (Exception ex) {
+                MessageBox.Show(ex.ToString());
             }
-        }
+            
+
+        } 
     }
 }

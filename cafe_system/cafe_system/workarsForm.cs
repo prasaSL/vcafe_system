@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
-
+using System.Data.SqlClient;
+using System.Collections.Generic;
+using System.Linq;
 namespace cafe_system
 {
     public partial class workarsForm : Form
@@ -9,6 +11,7 @@ namespace cafe_system
         public int price = 0;
         public int index = 0;
 
+        SqlConnection con;
         public workarsForm()
         {
             InitializeComponent();
@@ -24,10 +27,33 @@ namespace cafe_system
         {
             DateTime now = DateTime.Now;
             lblDate.Text = now.ToString("F");
-          
-             //   this.WindowState = FormWindowState.Maximized;
-             //   this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
-
+            con = connectionManager.getconn();
+            
+            con.Open();
+           try{
+            foreach (KeyValuePair<string, string> i in namelist.itemlist)
+            {
+                string price1 , price;
+                SqlCommand cmd = new SqlCommand("select * from Item where itemName = @Iname", con);
+                cmd.Parameters.AddWithValue("@Iname",i.Value);
+                  SqlDataReader reader;
+            reader = cmd.ExecuteReader();
+            if (reader.Read())
+            {
+                //price1 = reader["price"].ToString();
+                price = String.Format("{0:0.00}", reader["price"]);
+            Control[] a =   this.Controls.Find(i.Key,true);
+            a[0].Text = price;
+            reader.Close();
+            }
+            }
+           }
+            catch(Exception ex){
+            MessageBox.Show(ex.ToString());
+            }
+            //   this.WindowState = FormWindowState.Maximized;
+            //   this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
+            lbluser.Text = Program.user;
             gbdrink.Show();
             gbFood.Hide();
             gbTea.Show();
@@ -136,6 +162,9 @@ namespace cafe_system
 
         private void button19_Click(object sender, EventArgs e)
         {
+            if (lblcount.Text == "") {
+                MessageBox.Show("count can't be empty");
+            }
             string item = lblOName.Text;
             int count = Convert.ToInt32(lblcount.Text);
             index = index + 1;
@@ -364,6 +393,7 @@ namespace cafe_system
         {
             Button btn = (Button)sender;
             lblOName.Text = btn.Text + " juice";
+            lblcount.Text = "";
 
             gbtopping.Show();
             gbtopping.BringToFront();
@@ -417,12 +447,14 @@ namespace cafe_system
 
         private void c1_Click(object sender, EventArgs e)
         {
+            
             Button btn = (Button)sender;
             lblcount.Text = lblcount.Text + btn.Text;
         }
 
         private void btnCSCCHSandwich_Click(object sender, EventArgs e)
         {
+
             Button btn = (Button)sender;
             lblOName.Text = "Club Sandwich " + btn.Text;
             lblcount.Text = "";
@@ -433,6 +465,7 @@ namespace cafe_system
             Button btn = (Button)sender;
             lblOName.Text = btn.Text + " Sandwich";
             lblcount.Text = "";
+
         }
 
         private void btnHSPCSandwich_Click(object sender, EventArgs e)
@@ -440,6 +473,7 @@ namespace cafe_system
             Button btn = (Button)sender;
             lblOName.Text = "Home Style " +btn.Text + " Sandwich";
             lblcount.Text = "";
+
         }
 
         private void lblNTBBShake_Click(object sender, EventArgs e)
@@ -451,7 +485,7 @@ namespace cafe_system
         {
             Button btn = (Button)sender;
             lblOName.Text = btn.Text;
-            lblcount.Text = "";
+            
         }
 
         private void btnCCoffee_Click(object sender, EventArgs e)
@@ -459,6 +493,7 @@ namespace cafe_system
             Button btn = (Button)sender;
             lblOName.Text = btn.Text + " Coffee";
             lblcount.Text = "";
+
         }
 
         private void btnNSHDog_Click(object sender, EventArgs e)
@@ -466,6 +501,7 @@ namespace cafe_system
             Button btn = (Button)sender;
             lblOName.Text = btn.Text + " Hot Dog";
             lblcount.Text = "";
+
         }
 
         private void btnddcburger_Click(object sender, EventArgs e)
@@ -480,6 +516,8 @@ namespace cafe_system
             Button btn = (Button)sender;
             lblOName.Text = btn.Text ;
             lblcount.Text = "";
+
+
         }
 
         private void btnCSSoup_Click(object sender, EventArgs e)
@@ -487,6 +525,7 @@ namespace cafe_system
             Button btn = (Button)sender;
             lblOName.Text = btn.Text +" Soup";
             lblcount.Text = "";
+
 
         }
 
@@ -522,6 +561,26 @@ namespace cafe_system
             logForm obj = new logForm();
             obj.Show();
             this.Hide();
+        }
+
+        private void button7_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gbburger_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblcount_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblSMShakeP_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
