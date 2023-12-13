@@ -1,0 +1,13 @@
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Release\cafe_system.exe.config
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Release\cafe_system.exe
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Release\cafe_system.pdb
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Release\JMaterialTextbox.dll
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Release\JMetroTextBox.dll
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Release\JTextBox.dll
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.logForm.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.Properties.Resources.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.splashScreen.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.workarsForm.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.csproj.GenerateResource.Cache
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.exe
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Release\cafe_system.pdb

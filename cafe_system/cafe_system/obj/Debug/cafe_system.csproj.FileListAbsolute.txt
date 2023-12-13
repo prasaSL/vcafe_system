@@ -4,8 +4,94 @@ C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_syste
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
-C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.splashScreen.resources
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
 C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+D:\C#\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+D:\C#\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+D:\C#\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.splashScreen.resources
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+D:\C#\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.splashScreen.resources
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\Users\User\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.splashScreen.resources
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+C:\Users\User\Desktop\New folder (3)\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Form3.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.account.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.dashboard.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.inventory.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.product.resources
+C:\Users\gunar\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.userlog.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.account.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.dashboard.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Form3.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.inventory.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.product.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.userlog.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+E:\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.account.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.dashboard.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Form3.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.inventory.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.product.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.userlog.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+C:\my work\V Cafe\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe.config
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.exe
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.pdb
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.exe
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\bin\Debug\cafe_system.pdb
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csprojResolveAssemblyReference.cache
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.account.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.dashboard.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.logForm.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Form3.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.inventory.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.product.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.Properties.Resources.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.userlog.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.workarsForm.resources
+C:\Users\prasad\Desktop\vcafe_system\cafe_system\cafe_system\obj\Debug\cafe_system.csproj.GenerateResource.Cache

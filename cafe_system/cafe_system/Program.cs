@@ -18,7 +18,7 @@ namespace cafe_system
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new workarsForm());
+            Application.Run(new logForm());
 
         }
     }

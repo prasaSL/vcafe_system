@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -12,23 +13,33 @@ namespace cafe_system
 {
     public partial class logForm : Form
     {
-        SqlConnection con;
 
+        [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
+        private static extern IntPtr CreateRoundRectRgn
+        (
+            int nLeftRect,     // x-coordinate of upper-left corner
+            int nTopRect,      // y-coordinate of upper-left corner
+            int nRightRect,    // x-coordinate of lower-right corner
+            int nBottomRect,   // y-coordinate of lower-right corner
+            int nWidthEllipse, // height of ellipse
+            int nHeightEllipse // width of ellipse
+        );
+
+        SqlConnection con;
+       public static string username = "";
 
         public logForm()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.None;
+            Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 30, 30));
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
         }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
+             
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -64,8 +75,10 @@ namespace cafe_system
                     DataTable dt = new DataTable();
                     dat.Fill(dt);
 
+                    
                     if (dt.Rows.Count > 0)
                     {
+                        username = userTbox.Text;
                         SqlCommand cmd1 = new SqlCommand("select * from Vuser where Uname = @user", con);
                         cmd1.Parameters.AddWithValue("@user", userTbox.Text);
                         SqlDataReader reader;
@@ -74,9 +87,25 @@ namespace cafe_system
                         {
                             Program.user = reader["Uname"].ToString();
                             Program.position = reader["Vtype"].ToString();
-                            workarsForm obj = new workarsForm();
-                            obj.Show();
-                            this.Hide();
+                            reader.Close();
+                            SqlCommand cmd2 = new SqlCommand("INSERT INTO user_log VALUES(@user,getdate(), 'login' )",con);
+                            cmd2.Parameters.AddWithValue("@user", userTbox.Text);
+                            cmd2.ExecuteNonQuery();
+                            
+
+                            if (Program.position == "admin")
+                            {
+                                Form3 ob = new Form3();
+                                ob.Show();
+                                this.Hide();
+
+                            }
+                            else
+                            {
+                                workarsForm obj = new workarsForm();
+                                obj.Show();
+                                this.Hide();
+                            }
                         }
                     }
                     else
@@ -92,6 +121,21 @@ namespace cafe_system
             }
             
 
-        } 
+        }
+
+        private void btnLog_MouseHover(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void btnLog_MouseLeave(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void logForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
